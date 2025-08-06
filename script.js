@@ -104,14 +104,13 @@ function checkAnswer(selectedBtn, index) {
     score++;
     
     // Delay before next question or summary
-    setTimeout(() => {
-      currentIndex++;
-      if (currentIndex < questions.length) {
-        loadQuestion(currentIndex);
-      } else {
-        showSummary();
-      }
-    }, 1000);
+    currentIndex++;
+if (currentIndex < questions.length) {
+  loadQuestion(currentIndex);
+} else {
+  showSummary();
+}
+
   } else {
     // Wrong answer handling
     resultEl.textContent = `❌ Wrong! Correct answer is: ${questions[currentIndex].options[correctIndex]}`;
@@ -130,14 +129,13 @@ nextBtn.onclick = () => {
   nextBtn.classList.remove('animate__bounceIn');
   nextBtn.classList.add('animate__fadeOut');
   
-  setTimeout(() => {
-    currentIndex++;
-    if (currentIndex < questions.length) {
-      loadQuestion(currentIndex);
-    } else {
-      showSummary();
-    }
-  }, 300);
+  currentIndex++;
+if (currentIndex < questions.length) {
+  loadQuestion(currentIndex);
+} else {
+  showSummary();
+}
+
 };
 
 function showSummary() {
@@ -218,7 +216,7 @@ function shuffleArray(arr) {
   return [...arr].sort(() => Math.random() - 0.5);
 }
 
-// Confetti effect function
+//Confetti effect function
 function createConfetti() {
   const confettiContainer = document.createElement('div');
   confettiContainer.className = 'confetti-container';
@@ -242,209 +240,3 @@ function getRandomColor() {
 }
 
 
-
-
-
-// let allQuestions = [];
-// let questions = [];
-// let wrongQuestions = [];
-// let currentIndex = 0;
-// let score = 0;
-// let isRetrying = false;
-
-// const inputScreen = document.getElementById('inputScreen');
-// const quizScreen = document.getElementById('quizScreen');
-// const questionEl = document.getElementById('question');
-// const optionsEl = document.getElementById('options');
-// const resultEl = document.getElementById('result');
-// const nextBtn = document.getElementById('nextBtn');
-// const totalQuestionsEl = document.getElementById('totalQuestions');
-
-// fetch('questions.json')
-//   .then(response => response.json())
-//   .then(data => {
-//     allQuestions = data;
-//     totalQuestionsEl.textContent = `Total Available Questions: ${allQuestions.length}`;
-//   })
-//   .catch(error => {
-//     inputScreen.innerHTML = '<p>Failed to load questions.</p>';
-//     console.error('Error loading questions:', error);
-//   });
-
-// function startQuiz() {
-//   const from = parseInt(document.getElementById('fromQuestion').value);
-//   const to = parseInt(document.getElementById('toQuestion').value);
-//   const shuffle = document.getElementById('shuffleCheckbox').checked;
-
-//   if (isNaN(from) || isNaN(to) || from < 1 || to > allQuestions.length || from > to) {
-//     alert("Please enter a valid range within the available questions.");
-//     return;
-//   }
-
-//   questions = allQuestions.slice(from - 1, to);
-//   if (shuffle) {
-//     questions = shuffleArray(questions);
-//   }
-
-//   currentIndex = 0;
-//   score = 0;
-//   wrongQuestions = [];
-
-//   inputScreen.classList.remove('active');
-//   quizScreen.classList.add('active');
-
-//   loadQuestion(currentIndex);
-// }
-
-// function loadQuestion(index) {
-//   const q = questions[index];
-//   questionEl.textContent = `Q${index + 1}: ${q.question}`;
-//   optionsEl.innerHTML = '';
-//   resultEl.textContent = '';
-//   nextBtn.style.display = 'none';
-
-//   q.options.forEach((option, i) => {
-//     const btn = document.createElement('button');
-//     btn.textContent = option;
-//     btn.onclick = () => checkAnswer(btn, i);
-//     optionsEl.appendChild(btn);
-//   });
-// }
-
-// function checkAnswer(selectedBtn, index) {
-//   const correctIndex = questions[currentIndex].answer.charCodeAt(0) - 65;
-//   const buttons = optionsEl.querySelectorAll('button');
-
-//   buttons.forEach((btn, i) => {
-//     btn.disabled = true;
-//     if (i === correctIndex) btn.classList.add('correct');
-//     else if (btn === selectedBtn) btn.classList.add('wrong');
-//   });
-
-//   if (index === correctIndex) {
-//     score++;
-//     currentIndex++;
-//     if (currentIndex < questions.length) {
-//       loadQuestion(currentIndex);
-//     } else {
-//       showSummary();
-//     }
-//   } else {
-//     resultEl.textContent = `Wrong! Correct answer is: ${questions[currentIndex].options[correctIndex]}`;
-//     wrongQuestions.push(questions[currentIndex]);
-//     nextBtn.style.display = 'block';
-//   }
-// }
-
-
-
-// nextBtn.onclick = () => {
-//   currentIndex++;
-//   if (currentIndex < questions.length) {
-//     loadQuestion(currentIndex);
-//   } else {
-//     showSummary();
-//   }
-// };
-
-// function showSummary() {
-//   questionEl.textContent = 'Quiz Completed!';
-//   optionsEl.innerHTML = '';
-//   resultEl.innerHTML = `Your Score: ${score} / ${questions.length}`;
-
-//   if (wrongQuestions.length === 0) {
-//     const done = document.createElement('div');
-//     done.innerHTML = `<p>🎉 All answers correct! Quiz Finished.</p>`;
-//     optionsEl.appendChild(done);
-
-//     const homeBtn = document.createElement('button');
-//     homeBtn.textContent = 'Back to Home';
-//     homeBtn.onclick = goToHome;
-//     optionsEl.appendChild(homeBtn);
-//     return;
-//   }
-
-//   const review = document.createElement('div');
-//   review.innerHTML = `<h3>Incorrect Questions:</h3>`;
-//   wrongQuestions.forEach((q) => {
-//     const correctIndex = q.answer.charCodeAt(0) - 65;
-//     review.innerHTML += `<p><strong>Q:</strong> ${q.question}<br><strong>Correct:</strong> ${q.options[correctIndex]}</p>`;
-//   });
-//   optionsEl.appendChild(review);
-
-//   const optionContainer = document.createElement('div');
-//   optionContainer.style.marginTop = '20px';
-
-//   const retry = document.createElement('input');
-//   retry.type = 'radio';
-//   retry.name = 'summaryOption';
-//   retry.id = 'retryNow';
-
-//   const retryLabel = document.createElement('label');
-//   retryLabel.htmlFor = 'retryNow';
-//   retryLabel.textContent = '🔁 Reattempt Wrong Questions';
-
-//   const exit = document.createElement('input');
-//   exit.type = 'radio';
-//   exit.name = 'summaryOption';
-//   exit.id = 'exitNow';
-
-//   const exitLabel = document.createElement('label');
-//   exitLabel.htmlFor = 'exitNow';
-//   exitLabel.textContent = '🚪 Exit to Start';
-
-//   optionContainer.appendChild(retry);
-//   optionContainer.appendChild(retryLabel);
-//   optionContainer.appendChild(document.createElement('br'));
-//   optionContainer.appendChild(exit);
-//   optionContainer.appendChild(exitLabel);
-
-//   optionsEl.appendChild(optionContainer);
-
-//   retry.onclick = () => {
-//     questions = shuffleArray(wrongQuestions);
-//     wrongQuestions = [];
-//     currentIndex = 0;
-//     score = 0;
-//     isRetrying = true;
-//     loadQuestion(currentIndex);
-//   };
-
-//   exit.onclick = () => {
-//     goToHome();
-//   };
-// }
-
-
-// function handleRetryChoice() {
-//   const retry = document.getElementById('retryOption').checked;
-//   const exit = document.getElementById('exitOption').checked;
-
-//   if (!retry && !exit) {
-//     alert("Please select an option.");
-//     return;
-//   }
-
-//   if (retry) {
-//     questions = shuffleArray(wrongQuestions);
-//     wrongQuestions = [];
-//     currentIndex = 0;
-//     score = 0;
-//     isRetrying = true;
-//     loadQuestion(currentIndex);
-//   } else {
-//     goToHome();
-//   }
-// }
-
-// function goToHome() {
-//   inputScreen.classList.add('active');
-//   quizScreen.classList.remove('active');
-//   document.getElementById('fromQuestion').value = '';
-//   document.getElementById('toQuestion').value = '';
-//   document.getElementById('shuffleCheckbox').checked = false;
-// }
-
-// function shuffleArray(arr) {
-//   return [...arr].sort(() => Math.random() - 0.5);
-// }
