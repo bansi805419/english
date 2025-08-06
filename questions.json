@@ -1,4213 +1,2500 @@
 [
   {
     "question": "What is the meaning of 'Abash'?",
-    "options": ["To embarrass", "To encourage", "To shorten", "To praise"],
-    "answer": "A"
+    "options": ["To praise", "To embarrass", "To shorten", "To encourage"],
+    "answer": "B"
   },
   {
     "question": "What is the meaning of 'Abate'?",
-    "options": ["To increase", "To reduce", "To abandon", "To create"],
-    "answer": "B"
+    "options": ["To reduce", "To create", "To abandon", "To increase"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Abdicate'?",
-    "options": ["To claim", "To surrender", "To attack", "To defend"],
-    "answer": "B"
+    "options": ["To admire", "To conquer", "To give up power", "To celebrate"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Aberration'?",
-    "options": ["Normality", "Deviation", "Consistency", "Perfection"],
-    "answer": "B"
+    "options": ["Clarity", "Correction", "Accuracy", "Deviation from normal"],
+    "answer": "D"
+  },
+  {
+    "question": "What is the meaning of 'Detest'?",
+    "options": ["To protect", "To enjoy", "To hate", "To love"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Abject'?",
-    "options": ["Hopeful", "Miserable", "Wealthy", "Powerful"],
+    "options": ["Hopeless", "Charming", "Peaceful", "Energetic"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Hopeless'?",
+    "options": ["Bright", "Despairing", "Joyful", "Courageous"],
     "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Despair'?",
+    "options": ["Faith", "Hope", "Misery", "Confidence"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Abnegate'?",
-    "options": ["To indulge", "To reject", "To create", "To celebrate"],
+    "options": ["To claim", "To deny", "To accept", "To request"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Abridge'?",
-    "options": ["To lengthen", "To shorten", "To complicate", "To decorate"],
-    "answer": "B"
+    "question": "What is the meaning of 'Shorten'?",
+    "options": ["To prolong", "To extend", "To reduce length", "To exaggerate"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Condense'?",
+    "options": ["To expand", "To simplify", "To lengthen", "To make dense or compact"],
+    "answer": "D"
   },
   {
     "question": "What is the meaning of 'Absolute'?",
-    "options": ["Partial", "Complete", "Temporary", "Doubtful"],
+    "options": ["Limited", "Partial", "Complete", "Dependent"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Sin'?",
+    "options": ["Virtue", "Moral fault", "Innocence", "Reward"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Absolve'?",
-    "options": ["To blame", "To forgive", "To punish", "To ignore"],
+    "options": ["To accuse", "To punish", "To pardon", "To blame"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Aberration'?",
+    "options": ["Deviation from norm", "Perfection", "Routine", "Alignment"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Abortive'?",
+    "options": ["Successful", "Fruitless", "Growing", "Effective"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Abridge'?",
+    "options": ["To lengthen", "To extend", "To shorten", "To elaborate"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Absolute'?",
+    "options": ["Conditional", "Complete", "Relative", "Insecure"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Abstinent'?",
-    "options": ["Indulgent", "Restrained", "Wasteful", "Generous"],
+    "options": ["Indulgent", "Self-restraining", "Careless", "Addicted"],
     "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Voluntarily'?",
+    "options": ["By force", "By compulsion", "By one's own choice", "Unintentionally"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Abstract'?",
-    "options": ["Concrete", "Theoretical", "Simple", "Colorful"],
-    "answer": "B"
+    "options": ["Concrete", "Difficult to understand", "Theoretical", "Obvious"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Abstruse'?",
-    "options": ["Simple", "Difficult", "Clear", "Obvious"],
-    "answer": "B"
+    "options": ["Simple", "Clear", "Hard to understand", "Direct"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Abysmal'?",
-    "options": ["Excellent", "Terrible", "Average", "Temporary"],
+    "options": ["Excellent", "Very bad", "Pleasant", "Normal"],
     "answer": "B"
   },
   {
+    "question": "What is the meaning of 'Wretched'?",
+    "options": ["Happy", "Terrible", "Joyful", "Comfortable"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Appalling'?",
+    "options": ["Wonderful", "Delightful", "Horrifying", "Funny"],
+    "answer": "C"
+  },
+  {
     "question": "What is the meaning of 'Accolade'?",
-    "options": ["Criticism", "Honor", "Punishment", "Question"],
+    "options": ["Criticism", "Honor or award", "Rejection", "Punishment"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Accost'?",
-    "options": ["To avoid", "To approach", "To help", "To ignore"],
+    "options": ["To ignore", "To approach and speak boldly", "To hide", "To retreat"],
     "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Foundation'?",
+    "options": ["Top", "Base", "Decoration", "Ending"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Approach'?",
+    "options": ["To withdraw", "To ignore", "To come near", "To avoid"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Severe'?",
+    "options": ["Gentle", "Mild", "Harsh", "Soft"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Acerbic'?",
-    "options": ["Sweet", "Bitter", "Soft", "Gentle"],
+    "options": ["Sweet", "Sour or bitter", "Smooth", "Kind"],
     "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Reluctantly'?",
+    "options": ["Unwillingly", "Eagerly", "Gladly", "Excitedly"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Acquiesce'?",
-    "options": ["To resist", "To agree", "To argue", "To lead"],
+    "options": ["To resist", "To agree passively", "To fight", "To question"],
     "answer": "B"
   },
   {
+    "question": "What is the meaning of 'Assent'?",
+    "options": ["Agreement", "Denial", "Rejection", "Silence"],
+    "answer": "A"
+  },
+  {
     "question": "What is the meaning of 'Acrid'?",
-    "options": ["Pleasant", "Harsh", "Mild", "Fragrant"],
+    "options": ["Pleasant", "Sharp and bitter", "Sweet", "Fragrant"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Spite'?",
+    "options": ["Generosity", "Maliciousness", "Kindness", "Care"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Acrimonious'?",
-    "options": ["Friendly", "Bitter", "Calm", "Happy"],
+    "options": ["Peaceful", "Bitter in speech", "Friendly", "Calm"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Acumen'?",
-    "options": ["Stupidity", "Insight", "Ignorance", "Confusion"],
+    "options": ["Ignorance", "Keen insight", "Laziness", "Dullness"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Acute'?",
-    "options": ["Dull", "Sharp", "Mild", "Chronic"],
-    "answer": "B"
+    "options": ["Sharp", "Flat", "Dull", "Broad"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Adage'?",
-    "options": ["Lie", "Proverb", "Question", "Story"],
+    "options": ["Saying", "Lie", "Question", "Rumor"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Wisdom'?",
+    "options": ["Ignorance", "Knowledge and judgment", "Foolishness", "Stupidity"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Adamant'?",
-    "options": ["Flexible", "Stubborn", "Weak", "Indifferent"],
+    "options": ["Flexible", "Yielding", "Stubborn", "Submissive"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Stubborn'?",
+    "options": ["Willing", "Flexible", "Obstinate", "Gentle"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Unyielding'?",
+    "options": ["Giving up", "Firm", "Weak", "Surrendering"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Yield'?",
+    "options": ["Resist", "Refuse", "Submit", "Defy"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Address'?",
+    "options": ["Avoid", "Speak to or deal with", "Neglect", "Ignore"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Adherent'?",
-    "options": ["Opponent", "Supporter", "Leader", "Critic"],
-    "answer": "B"
+    "options": ["Supporter", "Opponent", "Critic", "Enemy"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Admonish'?",
-    "options": ["To praise", "To warn", "To ignore", "To follow"],
-    "answer": "B"
+    "options": ["To praise", "To ignore", "To warn or scold", "To flatter"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Warn'?",
+    "options": ["Advise of danger", "Celebrate", "Encourage", "Ignore"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Scold'?",
+    "options": ["To praise", "To ignore", "To reprimand", "To flatter"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Adroit'?",
-    "options": ["Clumsy", "Skillful", "Slow", "Weak"],
+    "options": ["Clumsy", "Skillful", "Careless", "Awkward"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Shrewd'?",
+    "options": ["Naive", "Clever", "Kind", "Dull"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Dextrous'?",
+    "options": ["Inept", "Skillful with hands", "Lazy", "Forgetful"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Adulation'?",
-    "options": ["Criticism", "Praise", "Silence", "Question"],
-    "answer": "B"
+    "options": ["Excessive praise", "Criticism", "Judgment", "Scorn"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Adverse'?",
-    "options": ["Favorable", "Unfavorable", "Neutral", "Helpful"],
+    "options": ["Favorable", "Helpful", "Harmful", "Kind"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Antagonistic'?",
+    "options": ["Supportive", "Opposing", "Friendly", "Loyal"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Affectation'?",
-    "options": ["Genuineness", "Pretense", "Honesty", "Simplicity"],
+    "options": ["Sincerity", "Pretension", "Affection", "Reality"],
     "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Affection'?",
+    "options": ["Hatred", "Coldness", "Love or fondness", "Distance"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Kinship'?",
+    "options": ["Conflict", "Relation", "Indifference", "Hatred"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Sympathy'?",
+    "options": ["Apathy", "Cruelty", "Compassion", "Ridicule"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Affluent'?",
-    "options": ["Poor", "Wealthy", "Average", "Struggling"],
-    "answer": "B"
+    "options": ["Wealthy", "Poor", "Needy", "Broke"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Prosperous'?",
+    "options": ["Thriving", "Declining", "Failing", "Barren"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Agrarian'?",
+    "options": ["Urban", "Industrial", "Agricultural", "Commercial"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Aggregate'?",
-    "options": ["Separate", "Combine", "Destroy", "Create"],
-    "answer": "B"
+    "options": ["Divide", "Separate", "Total", "Subtract"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Agnostic'?",
-    "options": ["Believer", "Doubter", "Preacher", "Follower"],
+    "options": ["Believer", "Skeptic about religion", "Atheist", "Faithful"],
     "answer": "B"
   },
   {
+    "question": "What is the meaning of 'Respond'?",
+    "options": ["Remain silent", "Answer", "Resist", "Ignore"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Readiness'?",
+    "options": ["Delay", "Unwillingness", "Preparedness", "Neglect"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Eagerness'?",
+    "options": ["Reluctance", "Excitement", "Fear", "Anxiety"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Enthusiasm'?",
+    "options": ["Passion", "Boredom", "Indifference", "Disinterest"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Cheerful'?",
+    "options": ["Happy", "Angry", "Sad", "Tired"],
+    "answer": "A"
+  },
+  {
     "question": "What is the meaning of 'Alacrity'?",
-    "options": ["Reluctance", "Eagerness", "Delay", "Silence"],
+    "options": ["Unwillingness", "Eagerness", "Fear", "Delay"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Assert'?",
+    "options": ["To deny", "To express firmly", "To retreat", "To whisper"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Allege'?",
-    "options": ["To deny", "To claim", "To prove", "To hide"],
-    "answer": "B"
+    "options": ["To confirm", "To deny", "To assert without proof", "To ignore"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Alleviate'?",
-    "options": ["To worsen", "To relieve", "To ignore", "To create"],
+    "options": ["To relieve", "To intensify", "To worsen", "To extend"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Relieve'?",
+    "options": ["To burden", "To worsen", "To ease", "To increase"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Lessen'?",
+    "options": ["To reduce", "To enhance", "To multiply", "To intensify"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Assign'?",
+    "options": ["To remove", "To distribute tasks", "To ignore", "To cancel"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Allocate'?",
-    "options": ["To withhold", "To assign", "To take", "To lose"],
-    "answer": "B"
+    "options": ["To withhold", "To gather", "To distribute", "To remove"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Alloy'?",
+    "options": ["Mixture of metals", "Pure metal", "Liquid metal", "Non-metal"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Off'?",
+    "options": ["Away", "Near", "Above", "On"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Allusion'?",
-    "options": ["Direct statement", "Indirect reference", "Question", "Answer"],
-    "answer": "B"
+    "options": ["Reference", "Truth", "Proof", "Lie"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Aloof'?",
-    "options": ["Friendly", "Distant", "Angry", "Happy"],
+    "options": ["Friendly", "Distant", "Talkative", "Cheerful"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Altruism'?",
-    "options": ["Selfishness", "Selflessness", "Greed", "Indifference"],
+    "options": ["Selfishness", "Generosity", "Pride", "Dishonesty"],
     "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Generosity'?",
+    "options": ["Kindness in giving", "Greed", "Stinginess", "Envy"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Ambience'?",
-    "options": ["Noise", "Atmosphere", "Silence", "Darkness"],
-    "answer": "B"
+    "options": ["Lighting", "Temperature", "Environment", "Noise"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Ameliorate'?",
-    "options": ["To worsen", "To improve", "To ignore", "To destroy"],
-    "answer": "B"
+    "options": ["To worsen", "To ignore", "To harm", "To improve"],
+    "answer": "D"
+  },
+  {
+    "question": "What is the meaning of 'Influence'?",
+    "options": ["Impact", "Block", "Limit", "Prevent"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Ambiguous'?",
-    "options": ["Clear", "Unclear", "Simple", "Direct"],
-    "answer": "B"
+    "options": ["Confusing", "Clear", "Precise", "Exact"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Ambivalent'?",
-    "options": ["Certain", "Uncertain", "Happy", "Angry"],
+    "options": ["Uncaring", "Undecided or conflicted", "Certain", "Sure"],
     "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Agreeable'?",
+    "options": ["Pleasing", "Disagreeable", "Annoying", "Hostile"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Ameliorate'?",
+    "options": ["To increase", "To delay", "To worsen", "To make better"],
+    "answer": "D"
   },
   {
     "question": "What is the meaning of 'Amenable'?",
-    "options": ["Resistant", "Cooperative", "Stubborn", "Angry"],
-    "answer": "B"
+    "options": ["Stubborn", "Resistant", "Cooperative", "Rebellious"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Amenity'?",
+    "options": ["Obstacle", "Luxury", "Facility", "Disadvantage"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Pardon'?",
+    "options": ["Forgiveness", "Punishment", "Judgment", "Sentence"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Amiable'?",
-    "options": ["Unfriendly", "Friendly", "Angry", "Sad"],
-    "answer": "B"
+    "options": ["Hostile", "Unfriendly", "Friendly", "Cold"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Amnesty'?",
-    "options": ["Punishment", "Pardon", "Accusation", "Sentence"],
-    "answer": "B"
+    "options": ["Imprisonment", "Punishment", "Reward", "Pardon"],
+    "answer": "D"
   },
   {
     "question": "What is the meaning of 'Amoral'?",
-    "options": ["Ethical", "Unethical", "Legal", "Illegal"],
-    "answer": "B"
+    "options": ["Ethical", "Moral", "Immoral", "Without morals"],
+    "answer": "D"
+  },
+  {
+    "question": "What is the meaning of 'Amorous'?",
+    "options": ["Loving", "Violent", "Cold", "Hostile"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Amorphous'?",
-    "options": ["Structured", "Shapeless", "Colorful", "Small"],
-    "answer": "B"
+    "options": ["Shapeless", "Rigid", "Structured", "Defined"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Incongruity'?",
+    "options": ["Harmony", "Fitting", "Suitability", "Mismatch"],
+    "answer": "D"
   },
   {
     "question": "What is the meaning of 'Anachronism'?",
-    "options": ["Modernity", "Outdated", "Future", "Present"],
+    "options": ["Timely event", "Out-of-time element", "Modern invention", "Prediction"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Anarchy'?",
-    "options": ["Order", "Chaos", "Government", "Law"],
-    "answer": "B"
+    "options": ["Lawlessness", "Government", "Order", "Discipline"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Anecdote'?",
-    "options": ["Novel", "Short story", "Poem", "Essay"],
+    "options": ["Long novel", "Short account", "Poem", "News report"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Amusing'?",
+    "options": ["Sad", "Boring", "Funny", "Dull"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Humorous'?",
+    "options": ["Serious", "Funny", "Rude", "Annoying"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Anguish'?",
-    "options": ["Joy", "Pain", "Peace", "Calm"],
+    "options": ["Joy", "Comfort", "Peace", "Extreme pain"],
+    "answer": "D"
+  },
+  {
+    "question": "What is the meaning of 'Agonizing'?",
+    "options": ["Pleasant", "Relaxing", "Painful", "Comforting"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Hostility'?",
+    "options": ["Friendship", "Hatred", "Cooperation", "Love"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Animosity'?",
-    "options": ["Friendship", "Hostility", "Love", "Peace"],
-    "answer": "B"
+    "options": ["Affection", "Friendliness", "Enmity", "Trust"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Ill will'?",
+    "options": ["Admiration", "Good faith", "Hatred", "Willingness"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Aberration'?",
+    "options": ["Normality", "Routine", "Odd deviation", "Standard"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Anomaly'?",
-    "options": ["Norm", "Irregularity", "Rule", "Pattern"],
+    "options": ["Regularity", "Unusual case", "Repetition", "Pattern"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Antecedent'?",
-    "options": ["Future", "Past", "Present", "Dream"],
-    "answer": "B"
+    "options": ["Following", "Current", "Result", "Predecessor"],
+    "answer": "D"
   },
   {
     "question": "What is the meaning of 'Antipathy'?",
-    "options": ["Liking", "Dislike", "Love", "Friendship"],
-    "answer": "B"
+    "options": ["Sympathy", "Love", "Dislike", "Care"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Antithesis'?",
-    "options": ["Similarity", "Opposite", "Copy", "Example"],
+    "options": ["Similarity", "Contrast", "Combination", "Equality"],
     "answer": "B"
   },
   {
+    "question": "What is the meaning of 'Apartheid'?",
+    "options": ["Equality", "Integration", "Unity", "Racial segregation"],
+    "answer": "D"
+  },
+  {
+    "question": "What is the meaning of 'Abhorrent'?",
+    "options": ["Admired", "Hateful", "Respected", "Loved"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Segregation'?",
+    "options": ["Inclusion", "Separation", "Friendship", "Union"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Racial'?",
+    "options": ["Cultural", "Personal", "Ethnic", "Economic"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Firm'?",
+    "options": ["Strong and steady", "Uncertain", "Loose", "Flexible"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Oppression'?",
+    "options": ["Relief", "Dominance through cruelty", "Joy", "Freedom"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Prolonged'?",
+    "options": ["Short", "Temporary", "Brief", "Extended"],
+    "answer": "D"
+  },
+  {
     "question": "What is the meaning of 'Apathy'?",
-    "options": ["Concern", "Indifference", "Love", "Hate"],
+    "options": ["Excitement", "Lack of interest", "Compassion", "Curiosity"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Aphorism'?",
-    "options": ["Long speech", "Short saying", "Question", "Answer"],
+    "options": ["Long poem", "Proverbial statement", "Question", "Exaggeration"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Often'?",
+    "options": ["Never", "Rarely", "Frequently", "Seldom"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Witty'?",
+    "options": ["Humorous and clever", "Strict", "Formal", "Clumsy"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Proverb'?",
+    "options": ["Traditional saying", "Warning", "Comment", "Lecture"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Dubious'?",
+    "options": ["Doubtful", "Certain", "Accurate", "Logical"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Authenticity'?",
+    "options": ["Fakeness", "Forgery", "Genuineness", "Assumption"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Fictitious'?",
+    "options": ["Real", "Imaginary", "Certain", "Credible"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Spurious'?",
+    "options": ["Authentic", "False", "Sincere", "Accurate"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Apocryphal'?",
-    "options": ["Genuine", "Fictitious", "Real", "True"],
+    "options": ["Genuine", "Of doubtful origin", "Proven", "Sacred"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Elevation'?",
+    "options": ["Decline", "Height", "Crash", "Fall"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Divine'?",
+    "options": ["Human", "Holy", "Worldly", "Natural"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Apotheosis'?",
-    "options": ["Low point", "Highest point", "Middle", "Beginning"],
+    "options": ["Deification", "Punishment", "Failure", "Condemnation"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Soothe'?",
+    "options": ["Calm", "Irritate", "Shock", "Bother"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Pacify'?",
+    "options": ["Provoke", "Enrage", "Calm down", "Irritate"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Placate'?",
+    "options": ["Infuriate", "Soothe", "Trigger", "Annoy"],
     "answer": "B"
   },
   {
+    "question": "What is the meaning of 'Acceding'?",
+    "options": ["Rejecting", "Opposing", "Yielding or agreeing", "Ignoring"],
+    "answer": "C"
+  },
+  {
     "question": "What is the meaning of 'Appease'?",
-    "options": ["To anger", "To calm", "To ignore", "To fight"],
+    "options": ["Provoke", "Satisfy or calm", "Anger", "Ignore"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Appreciate'?",
+    "options": ["Ignore", "Value or admire", "Criticize", "Forget"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Apprehensive'?",
-    "options": ["Confident", "Worried", "Happy", "Excited"],
+    "options": ["Confident", "Worried", "Relaxed", "Carefree"],
     "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Worried'?",
+    "options": ["Joyful", "Relaxed", "Anxious", "Peaceful"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Anxious'?",
+    "options": ["Calm", "Eager", "Fearful or worried", "Happy"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Approbation'?",
-    "options": ["Disapproval", "Approval", "Silence", "Criticism"],
+    "options": ["Disapproval", "Praise or approval", "Warning", "Criticism"],
     "answer": "B"
   },
   {
+    "question": "What is the meaning of 'Praise'?",
+    "options": ["Appreciation", "Condemnation", "Judgment", "Ignore"],
+    "answer": "A"
+  },
+  {
     "question": "What is the meaning of 'Appropriate'?",
-    "options": ["Unsuitable", "Suitable", "Wrong", "Bad"],
+    "options": ["Improper", "Proper or suitable", "Offensive", "Inaccurate"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Aptitude'?",
-    "options": ["Inability", "Ability", "Dislike", "Hate"],
-    "answer": "B"
+    "options": ["Laziness", "Lack of skill", "Natural ability", "Disinterest"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Arbitrary'?",
-    "options": ["Reasoned", "Random", "Planned", "Organized"],
-    "answer": "B"
+    "options": ["Random or without reason", "Planned", "Predictable", "Logical"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Accountable'?",
+    "options": ["Responsible", "Carefree", "Untrustworthy", "Detached"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Capricious'?",
+    "options": ["Constant", "Stable", "Unpredictable or whimsical", "Loyal"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Arcane'?",
-    "options": ["Common", "Mysterious", "Simple", "Clear"],
+    "options": ["Mysterious or secret", "Famous", "Obvious", "Clear"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Outdated'?",
+    "options": ["Current", "Modern", "Obsolete", "Trendy"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Obsolete'?",
+    "options": ["Useful", "Out of use", "New", "Popular"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Archetype'?",
-    "options": ["Copy", "Original", "Fake", "New"],
+    "options": ["Copy", "Prototype or original model", "Variation", "Opposite"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Ardent'?",
-    "options": ["Indifferent", "Passionate", "Cold", "Angry"],
+    "options": ["Indifferent", "Cold", "Passionate", "Silent"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Passionate'?",
+    "options": ["Dull", "Disinterested", "Devoted and intense", "Bored"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Cunning'?",
+    "options": ["Clever and deceitful", "Simple", "Naive", "Honest"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Artful'?",
+    "options": ["Clumsy", "Skillful or crafty", "Obvious", "Plain"],
     "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Crafty'?",
+    "options": ["Clumsy", "Naive", "Clever in a deceitful way", "Simple"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Willy'?",
+    "options": ["Foolish", "Sneaky or clever", "Carefree", "Dull"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Sly'?",
+    "options": ["Open", "Cunning", "Serious", "Friendly"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Deceitful'?",
+    "options": ["Truthful", "Genuine", "Dishonest", "Loyal"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Supremacy'?",
+    "options": ["Domination", "Equality", "Neutrality", "Peace"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Domination'?",
+    "options": ["Slavery", "Freedom", "Control or rule", "Respect"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Arduous'?",
-    "options": ["Easy", "Difficult", "Simple", "Quick"],
-    "answer": "B"
+    "options": ["Pleasant", "Easy", "Relaxed", "Difficult"],
+    "answer": "D"
   },
   {
     "question": "What is the meaning of 'Aristocratic'?",
-    "options": ["Common", "Noble", "Poor", "Modern"],
-    "answer": "B"
+    "options": ["Noble", "Lowly", "Ordinary", "Middle-class"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Ascendancy'?",
+    "options": ["Decline", "Collapse", "Power", "Failure"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Ascetic'?",
-    "options": ["Indulgent", "Austere", "Wealthy", "Luxurious"],
-    "answer": "B"
+    "options": ["Materialistic", "Greedy", "Self-disciplined", "Extravagant"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Diligent'?",
+    "options": ["Hardworking", "Lazy", "Casual", "Unconcerned"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Assiduous'?",
-    "options": ["Lazy", "Diligent", "Careless", "Slow"],
+    "options": ["Indifferent", "Careful and persistent", "Disinterested", "Inattentive"],
     "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Thoroughly'?",
+    "options": ["Carelessly", "Fully", "Partially", "Roughly"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Artifice'?",
+    "options": ["Natural", "Tool", "Trick", "Truth"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Assimilate'?",
-    "options": ["To reject", "To absorb", "To ignore", "To fight"],
-    "answer": "B"
+    "options": ["Integrate", "Reject", "Resist", "Avoid"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Assuage'?",
-    "options": ["To worsen", "To soothe", "To anger", "To hurt"],
-    "answer": "B"
+    "options": ["Irritate", "Intensify", "Ease", "Aggravate"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Astute'?",
-    "options": ["Stupid", "Clever", "Slow", "Weak"],
-    "answer": "B"
+    "options": ["Unaware", "Naive", "Clever", "Reckless"],
+    "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Asylum'?",
-    "options": ["Prison", "Refuge", "Danger", "War"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Atrophy'?",
-    "options": ["Growth", "Wasting", "Health", "Strength"],
-    "answer": "B"
+    "question": "What is the meaning of 'Keen'?",
+    "options": ["Sharp", "Lazy", "Dull", "Bored"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Attrition'?",
-    "options": ["Growth", "Reduction", "Increase", "Creation"],
+    "options": ["Explosion", "Gradual weakening", "Growth", "Gain"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Audacious'?",
-    "options": ["Timid", "Bold", "Quiet", "Shy"],
+    "question": "What is the meaning of 'Gradual'?",
+    "options": ["Slow and steady", "Sudden", "Rapid", "Brief"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Impertinence'?",
+    "options": ["Politeness", "Rudeness", "Helpfulness", "Compassion"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Augment'?",
-    "options": ["To decrease", "To increase", "To ignore", "To destroy"],
+    "question": "What is the meaning of 'Daring'?",
+    "options": ["Cowardice", "Fear", "Boldness", "Shyness"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Reckless'?",
+    "options": ["Careless", "Cautious", "Wise", "Slow"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Boldness'?",
+    "options": ["Shyness", "Courage", "Hesitation", "Fear"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Impudent'?",
+    "options": ["Respectful", "Rude", "Loyal", "Generous"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Impudence'?",
+    "options": ["Courtesy", "Kindness", "Disrespect", "Obedience"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Audacity'?",
+    "options": ["Timidity", "Bold courage", "Confusion", "Uncertainty"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Auspicious'?",
-    "options": ["Unfavorable", "Favorable", "Bad", "Sad"],
+    "options": ["Unfavorable", "Threatening", "Lucky or promising", "Dangerous"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Adorned'?",
+    "options": ["Decorated", "Hidden", "Plain", "Broken"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Adorable'?",
+    "options": ["Ugly", "Lovely", "Unlikable", "Strict"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Stern'?",
+    "options": ["Gentle", "Harsh and strict", "Soft", "Funny"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Buttock'?",
+    "options": ["Arm", "Thigh", "Backside", "Face"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Forbidding'?",
+    "options": ["Inviting", "Intimidating", "Warm", "Lively"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Austere'?",
-    "options": ["Luxurious", "Severe", "Kind", "Gentle"],
+    "options": ["Luxurious", "Severe or strict", "Colorful", "Cheerful"],
     "answer": "B"
   },
   {
+    "question": "What is the meaning of 'Sever'?",
+    "options": ["Join", "Cut off", "Tie", "Unite"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Autocratic'?",
+    "options": ["Dictatorial", "Democratic", "Lenient", "Open-minded"],
+    "answer": "A"
+  },
+  {
     "question": "What is the meaning of 'Autonomous'?",
-    "options": ["Dependent", "Independent", "Controlled", "Ruled"],
+    "options": ["Dependent", "Independent", "Isolated", "Friendly"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Avarice'?",
-    "options": ["Generosity", "Greed", "Kindness", "Love"],
-    "answer": "B"
+    "options": ["Greed", "Generosity", "Satisfaction", "Wealth"],
+    "answer": "A"
   },
   {
-    "question": "What is the meaning of 'Aver'?",
-    "options": ["To deny", "To affirm", "To question", "To ignore"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Aversion'?",
-    "options": ["Liking", "Dislike", "Love", "Friendship"],
-    "answer": "B"
+    "question": "What is the meaning of 'Riches'?",
+    "options": ["Jewelry", "Gold", "Wealth", "Food"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Avow'?",
-    "options": ["To deny", "To declare", "To hide", "To lie"],
+    "options": ["Deny", "Confess openly", "Hide", "Lie"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Avuncular'?",
+    "options": ["Fatherly", "Motherly", "Uncle-like kindness", "Childish"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Amiss'?",
+    "options": ["Correct", "Wrong", "Perfect", "Precise"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Twist'?",
+    "options": ["Turn", "Push", "Fold", "Flatten"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Banal'?",
+    "options": ["Interesting", "Dull and unoriginal", "Unique", "Exciting"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Axiom'?",
-    "options": ["Question", "Principle", "Doubt", "Lie"],
+    "options": ["Lie", "Fact", "Self-evident truth", "Guess"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Torment'?",
+    "options": ["Comfort", "Pleasure", "Extreme suffering", "Kindness"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Fortified'?",
+    "options": ["Weak", "Protected or strengthened", "Collapsed", "Brittle"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Banal'?",
-    "options": ["Original", "Commonplace", "Unique", "Special"],
+    "question": "What is the meaning of 'Fortress'?",
+    "options": ["Tent", "Strong building for defense", "Cottage", "Warehouse"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Bane'?",
-    "options": ["Blessing", "Curse", "Help", "Gift"],
-    "answer": "B"
+    "question": "What is the meaning of 'Stronghold'?",
+    "options": ["Weak point", "Shelter", "Secure fortress", "Cave"],
+    "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Befuddle'?",
-    "options": ["To clarify", "To confuse", "To help", "To guide"],
-    "answer": "B"
+    "question": "What is the meaning of 'Beget'?",
+    "options": ["Kill", "Destroy", "Give rise to", "Stop"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Belabour'?",
+    "options": ["Overemphasize", "Ignore", "Abandon", "Simplify"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Contradict'?",
+    "options": ["Agree", "Support", "Deny the truth of", "Accept"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Belie'?",
-    "options": ["To reveal", "To misrepresent", "To confirm", "To prove"],
+    "options": ["Misrepresent", "Clarify", "Support", "State"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Belittle'?",
+    "options": ["Praise", "Magnify", "Undermine or insult", "Admire"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Combative'?",
+    "options": ["Aggressive", "Peaceful", "Quiet", "Gentle"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Quarrelsome'?",
+    "options": ["Friendly", "Argumentative", "Kind", "Supportive"],
     "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Waging'?",
+    "options": ["Stopping", "Starting", "Carrying on (war/fight)", "Avoiding"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Belligerent'?",
+    "options": ["Hostile and aggressive", "Polite", "Tired", "Humble"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Perplex'?",
+    "options": ["Confuse", "Explain", "Understand", "Simplify"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Bewildered'?",
+    "options": ["Clear", "Lost in confusion", "Angry", "Excited"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Bemused'?",
+    "options": ["Confused", "Excited", "Focused", "Clear"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Benefactor'?",
+    "options": ["Enemy", "Supporter", "Giver of help or money", "Stranger"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Benevolent'?",
+    "options": ["Generous and kind", "Greedy", "Proud", "Cruel"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Generous'?",
+    "options": ["Selfish", "Unkind", "Giving and kind", "Cheap"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Benign'?",
-    "options": ["Harmful", "Harmless", "Dangerous", "Deadly"],
+    "options": ["Innocent and kind", "Dangerous", "Severe", "Deadly"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Malignant'?",
+    "options": ["Helpful", "Harmful", "Peaceful", "Healing"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Bequeath'?",
-    "options": ["To take", "To leave", "To steal", "To lose"],
+    "question": "What is the meaning of 'Malign'?",
+    "options": ["Praise", "Support", "Speak evil of", "Ignore"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Malevolent'?",
+    "options": ["Good-natured", "Wicked", "Kind-hearted", "Friendly"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Berate'?",
-    "options": ["To praise", "To scold", "To ignore", "To help"],
-    "answer": "B"
+    "question": "What is the meaning of 'Evil'?",
+    "options": ["Bad or wicked", "Great", "Pure", "Nice"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Malefactor'?",
+    "options": ["Villain", "Helper", "Healer", "Savior"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Will'?",
+    "options": ["Desire or determination", "Forgetfulness", "Coincidence", "Regret"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Bereft'?",
-    "options": ["Full", "Deprived", "Happy", "Rich"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Blight'?",
-    "options": ["Blessing", "Affliction", "Help", "Gift"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Blithe'?",
-    "options": ["Sad", "Cheerful", "Angry", "Worried"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Bombastic'?",
-    "options": ["Simple", "Pompous", "Quiet", "Humble"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Boorish'?",
-    "options": ["Polite", "Rude", "Kind", "Gentle"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Brevity'?",
-    "options": ["Length", "Shortness", "Fullness", "Detail"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Bucolic'?",
-    "options": ["Urban", "Rural", "Modern", "Industrial"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Burgeon'?",
-    "options": ["To shrink", "To grow", "To die", "To stop"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Burnish'?",
-    "options": ["To tarnish", "To polish", "To dirty", "To break"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Buttress'?",
-    "options": ["To weaken", "To support", "To destroy", "To ignore"],
-    "answer": "B"
-  },
-
-  {
-    "question": "What is the meaning of 'Cacophony'?",
-    "options": ["Harmony", "Discord", "Silence", "Music"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Cajole'?",
-    "options": ["To force", "To coax", "To ignore", "To reject"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Callow'?",
-    "options": ["Mature", "Immature", "Wise", "Experienced"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Candor'?",
-    "options": ["Deceit", "Honesty", "Silence", "Evasion"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Capitulate'?",
-    "options": ["To resist", "To surrender", "To attack", "To defend"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Capricious'?",
-    "options": ["Steady", "Whimsical", "Predictable", "Reliable"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Caricature'?",
-    "options": ["Accurate portrayal", "Exaggerated portrayal", "Photograph", "Documentary"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Castigate'?",
-    "options": ["To praise", "To criticize severely", "To ignore", "To forgive"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Categorical'?",
-    "options": ["Uncertain", "Absolute", "Partial", "Conditional"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Catharsis'?",
-    "options": ["Repression", "Emotional release", "Tension", "Conflict"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Catholic'?",
-    "options": ["Narrow", "Universal", "Limited", "Specific"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Caustic'?",
-    "options": ["Soothing", "Biting", "Gentle", "Kind"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Celibacy'?",
-    "options": ["Promiscuity", "Abstinence", "Marriage", "Fertility"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Censure'?",
-    "options": ["Praise", "Condemnation", "Approval", "Support"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Chagrin'?",
-    "options": ["Delight", "Distress", "Pride", "Joy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Charlatan'?",
-    "options": ["Expert", "Fraud", "Scholar", "Professional"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Chastise'?",
-    "options": ["To reward", "To punish", "To ignore", "To praise"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Chimera'?",
-    "options": ["Reality", "Illusion", "Fact", "Truth"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Choleric'?",
-    "options": ["Calm", "Irritable", "Happy", "Peaceful"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Chronic'?",
-    "options": ["Temporary", "Persistent", "Occasional", "Rare"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Circuitous'?",
-    "options": ["Direct", "Roundabout", "Straight", "Simple"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Circumlocution'?",
-    "options": ["Directness", "Indirectness", "Honesty", "Openness"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Circumscribe'?",
-    "options": ["To expand", "To limit", "To free", "To release"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Circumspect'?",
-    "options": ["Reckless", "Cautious", "Bold", "Daring"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Clandestine'?",
-    "options": ["Open", "Secret", "Public", "Known"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Clemency'?",
-    "options": ["Severity", "Mercy", "Cruelty", "Harshness"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Cliché'?",
-    "options": ["Originality", "Overused expression", "Novelty", "Innovation"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Coalesce'?",
-    "options": ["To separate", "To unite", "To divide", "To scatter"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Coerce'?",
-    "options": ["To persuade", "To force", "To ask", "To request"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Cogent'?",
-    "options": ["Weak", "Convincing", "Foolish", "Illogical"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Cognizant'?",
-    "options": ["Unaware", "Aware", "Ignorant", "Forgetful"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Coherent'?",
-    "options": ["Confused", "Logical", "Disjointed", "Inconsistent"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Colloquial'?",
-    "options": ["Formal", "Informal", "Official", "Academic"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Collusion'?",
-    "options": ["Honesty", "Conspiracy", "Openness", "Transparency"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Commensurate'?",
-    "options": ["Disproportionate", "Proportionate", "Unequal", "Inadequate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Compelling'?",
-    "options": ["Weak", "Forceful", "Unconvincing", "Mild"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Complacent'?",
-    "options": ["Dissatisfied", "Self-satisfied", "Ambitious", "Restless"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Complement'?",
-    "options": ["To clash", "To complete", "To oppose", "To contradict"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Complicity'?",
-    "options": ["Innocence", "Involvement in wrongdoing", "Resistance", "Opposition"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Comprehensive'?",
-    "options": ["Partial", "Thorough", "Limited", "Narrow"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Conciliatory'?",
-    "options": ["Provocative", "Peacemaking", "Aggressive", "Hostile"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Concise'?",
-    "options": ["Wordy", "Brief", "Lengthy", "Detailed"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Concurrent'?",
-    "options": ["Separate", "Simultaneous", "Sequential", "Alternate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Condescend'?",
-    "options": ["To respect", "To patronize", "To admire", "To praise"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Condone'?",
-    "options": ["To condemn", "To overlook", "To punish", "To criticize"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Conducive'?",
-    "options": ["Unfavorable", "Favorable", "Harmful", "Destructive"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Confluence'?",
-    "options": ["Separation", "Coming together", "Division", "Isolation"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Congenial'?",
-    "options": ["Unpleasant", "Pleasant", "Hostile", "Disagreeable"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Congenital'?",
-    "options": ["Acquired", "Inborn", "Learned", "Developed"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Conjecture'?",
-    "options": ["Fact", "Guess", "Proof", "Evidence"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Connoisseur'?",
-    "options": ["Novice", "Expert", "Amateur", "Beginner"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Consecrate'?",
-    "options": ["To desecrate", "To sanctify", "To curse", "To condemn"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Consensus'?",
-    "options": ["Disagreement", "Agreement", "Conflict", "Opposition"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Consonant'?",
-    "options": ["Inconsistent", "Harmonious", "Discordant", "Opposing"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Construe'?",
-    "options": ["To ignore", "To interpret", "To confuse", "To mistranslate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Consummate'?",
-    "options": ["Amateurish", "Perfect", "Flawed", "Incomplete"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Contentious'?",
-    "options": ["Agreeable", "Quarrelsome", "Peaceful", "Friendly"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Contiguous'?",
-    "options": ["Separate", "Adjacent", "Distant", "Remote"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Contingent'?",
-    "options": ["Certain", "Dependent", "Independent", "Absolute"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Contrite'?",
-    "options": ["Unrepentant", "Remorseful", "Proud", "Defiant"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Contrived'?",
-    "options": ["Natural", "Artificial", "Genuine", "Spontaneous"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Conventional'?",
-    "options": ["Unorthodox", "Traditional", "Radical", "Innovative"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Convivial'?",
-    "options": ["Gloomy", "Sociable", "Hostile", "Unfriendly"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Copious'?",
-    "options": ["Scarce", "Abundant", "Limited", "Insufficient"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Corollary'?",
-    "options": ["Cause", "Consequence", "Origin", "Source"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Corroborate'?",
-    "options": ["To contradict", "To confirm", "To deny", "To oppose"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Cosmopolitan'?",
-    "options": ["Provincial", "Worldly", "Narrow", "Local"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Countenance'?",
-    "options": ["To oppose", "To approve", "To reject", "To forbid"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Coup'?",
-    "options": ["Defeat", "Sudden overthrow", "Election", "Agreement"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Covenant'?",
-    "options": ["Break", "Agreement", "Disagreement", "Conflict"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Covert'?",
-    "options": ["Open", "Secret", "Public", "Obvious"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Covet'?",
-    "options": ["To despise", "To desire", "To reject", "To ignore"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Credulous'?",
-    "options": ["Skeptical", "Gullible", "Wise", "Discerning"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Criterion'?",
-    "options": ["Guess", "Standard", "Assumption", "Hypothesis"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Cryptic'?",
-    "options": ["Clear", "Mysterious", "Simple", "Obvious"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Culinary'?",
-    "options": ["Medical", "Relating to cooking", "Agricultural", "Industrial"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Culminate'?",
-    "options": ["To begin", "To climax", "To fail", "To decline"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Culpable'?",
-    "options": ["Innocent", "Guilty", "Blameless", "Faultless"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Cursory'?",
-    "options": ["Thorough", "Hasty", "Detailed", "Complete"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Curtail'?",
-    "options": ["To extend", "To shorten", "To increase", "To expand"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Cynic'?",
-    "options": ["Optimist", "Skeptic", "Believer", "Trusting person"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Daunt'?",
-    "options": ["To encourage", "To intimidate", "To help", "To support"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Dearth'?",
-    "options": ["Abundance", "Scarcity", "Surplus", "Excess"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Debacle'?",
-    "options": ["Success", "Disaster", "Victory", "Triumph"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Debauchery'?",
-    "options": ["Restraint", "Indulgence", "Abstinence", "Moderation"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Debilitate'?",
-    "options": ["To strengthen", "To weaken", "To heal", "To cure"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Decadent'?",
-    "options": ["Moral", "Decaying", "Growing", "Developing"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Decimate'?",
-    "options": ["To create", "To destroy", "To build", "To increase"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Decorous'?",
-    "options": ["Improper", "Proper", "Rude", "Crude"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Deduce'?",
-    "options": ["To guess", "To infer", "To assume", "To suppose"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Defame'?",
-    "options": ["To praise", "To slander", "To honor", "To respect"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Deference'?",
-    "options": ["Disrespect", "Respect", "Rudeness", "Defiance"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Definitive'?",
-    "options": ["Tentative", "Conclusive", "Provisional", "Uncertain"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Degenerate'?",
-    "options": ["To improve", "To deteriorate", "To grow", "To develop"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Deleterious'?",
-    "options": ["Beneficial", "Harmful", "Helpful", "Useful"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Delineate'?",
-    "options": ["To confuse", "To outline", "To erase", "To hide"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Delude'?",
-    "options": ["To enlighten", "To deceive", "To inform", "To educate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Deluge'?",
-    "options": ["Drought", "Flood", "Scarcity", "Shortage"],
-    "answer": "B"
+    "options": ["Overflowing", "Abundant", "Deprived of", "Gifted"],
+    "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Denizen'?",
-    "options": ["Stranger", "Inhabitant", "Visitor", "Tourist"],
+    "question": "What is the meaning of 'Deprive'?",
+    "options": ["To give", "To take away", "To reward", "To share"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Depravity'?",
-    "options": ["Virtue", "Wickedness", "Goodness", "Morality"],
+    "question": "What is the meaning of 'Dissolute'?",
+    "options": ["Moral", "Corrupt and immoral", "Generous", "Peaceful"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Deprecate'?",
-    "options": ["To praise", "To disapprove", "To admire", "To respect"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Deride'?",
-    "options": ["To respect", "To mock", "To honor", "To praise"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Derogatory'?",
-    "options": ["Complimentary", "Disparaging", "Flattering", "Praising"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Desiccated'?",
-    "options": ["Moist", "Dried", "Wet", "Hydrated"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Despondent'?",
-    "options": ["Hopeful", "Depressed", "Joyful", "Optimistic"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Despot'?",
-    "options": ["Democrat", "Tyrant", "Servant", "Subject"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Destitute'?",
-    "options": ["Wealthy", "Impoverished", "Rich", "Affluent"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Desultory'?",
-    "options": ["Focused", "Random", "Organized", "Systematic"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Deteriorate'?",
-    "options": ["To improve", "To worsen", "To heal", "To grow"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Detest'?",
-    "options": ["To love", "To hate", "To admire", "To respect"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Dictum'?",
-    "options": ["Question", "Authoritative statement", "Request", "Suggestion"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Didactic'?",
-    "options": ["Entertaining", "Instructive", "Confusing", "Misleading"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Diffident'?",
-    "options": ["Confident", "Shy", "Arrogant", "Bold"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Digress'?",
-    "options": ["To focus", "To stray from the topic", "To conclude", "To summarize"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Dilettante'?",
-    "options": ["Expert", "Amateur", "Professional", "Specialist"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Discern'?",
-    "options": ["To ignore", "To perceive", "To confuse", "To mix"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Discreet'?",
-    "options": ["Careless", "Prudent", "Noisy", "Obvious"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Discrete'?",
-    "options": ["Connected", "Separate", "Mixed", "Blended"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Disdain'?",
-    "options": ["Admiration", "Contempt", "Respect", "Honor"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Disinterested'?",
-    "options": ["Biased", "Impartial", "Prejudiced", "Partial"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Disparage'?",
-    "options": ["To praise", "To belittle", "To honor", "To respect"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Disparate'?",
-    "options": ["Similar", "Different", "Equal", "Identical"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Disseminate'?",
-    "options": ["To withhold", "To spread", "To collect", "To hide"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Dissipate'?",
-    "options": ["To gather", "To scatter", "To save", "To store"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Dissonance'?",
-    "options": ["Harmony", "Discord", "Agreement", "Unity"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Distend'?",
-    "options": ["To shrink", "To swell", "To flatten", "To compress"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Dither'?",
-    "options": ["To decide", "To hesitate", "To act", "To proceed"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Divergent'?",
-    "options": ["Converging", "Diverging", "Parallel", "Identical"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Docile'?",
-    "options": ["Stubborn", "Obedient", "Wild", "Aggressive"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Doctrinaire'?",
-    "options": ["Flexible", "Dogmatic", "Open-minded", "Practical"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Dogmatic'?",
-    "options": ["Flexible", "Opinionated", "Open", "Questioning"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Dormant'?",
-    "options": ["Active", "Inactive", "Alert", "Awake"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Dour'?",
-    "options": ["Cheerful", "Gloomy", "Bright", "Happy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Dubious'?",
-    "options": ["Certain", "Doubtful", "Sure", "Confident"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Duplicity'?",
-    "options": ["Honesty", "Deceit", "Truth", "Sincerity"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Ebullient'?",
-    "options": ["Depressed", "Enthusiastic", "Sad", "Gloomy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Eclectic'?",
-    "options": ["Uniform", "Diverse", "Homogeneous", "Similar"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Edify'?",
-    "options": ["To confuse", "To enlighten", "To mislead", "To deceive"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Efficacious'?",
-    "options": ["Ineffective", "Effective", "Weak", "Futile"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Effrontery'?",
-    "options": ["Humility", "Boldness", "Shyness", "Modesty"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Egregious'?",
-    "options": ["Minor", "Outstandingly bad", "Excellent", "Praiseworthy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Elegy'?",
-    "options": ["Celebration", "Lament", "Praise", "Comedy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Elicit'?",
-    "options": ["To suppress", "To draw out", "To hide", "To conceal"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Eloquent'?",
-    "options": ["Inarticulate", "Fluent", "Mute", "Tongue-tied"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Elucidate'?",
-    "options": ["To confuse", "To clarify", "To obscure", "To complicate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Elusive'?",
-    "options": ["Obvious", "Evasive", "Clear", "Apparent"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Emaciated'?",
-    "options": ["Plump", "Thin", "Healthy", "Strong"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Eminent'?",
-    "options": ["Unknown", "Distinguished", "Ordinary", "Common"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Empirical'?",
-    "options": ["Theoretical", "Observational", "Hypothetical", "Speculative"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Emulate'?",
-    "options": ["To ignore", "To imitate", "To reject", "To despise"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Enervate'?",
-    "options": ["To energize", "To weaken", "To strengthen", "To invigorate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Engender'?",
-    "options": ["To prevent", "To produce", "To stop", "To halt"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Enigma'?",
-    "options": ["Explanation", "Mystery", "Clarity", "Solution"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Enmity'?",
-    "options": ["Friendship", "Hostility", "Love", "Affection"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Ephemeral'?",
-    "options": ["Permanent", "Temporary", "Lasting", "Enduring"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Equanimity'?",
-    "options": ["Agitation", "Calmness", "Excitement", "Distress"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Equivocate'?",
-    "options": ["To clarify", "To be ambiguous", "To explain", "To state clearly"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Erratic'?",
-    "options": ["Consistent", "Unpredictable", "Regular", "Steady"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Erudite'?",
-    "options": ["Ignorant", "Learned", "Uneducated", "Simple"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Esoteric'?",
-    "options": ["Common", "Obscure", "Popular", "General"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Euphemism'?",
-    "options": ["Direct term", "Mild substitute", "Blunt expression", "Literal meaning"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Exacerbate'?",
-    "options": ["To improve", "To worsen", "To heal", "To soothe"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Exacting'?",
-    "options": ["Lenient", "Demanding", "Easy", "Simple"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Exalt'?",
-    "options": ["To lower", "To glorify", "To humble", "To degrade"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Exasperate'?",
-    "options": ["To please", "To irritate", "To calm", "To soothe"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Exemplary'?",
-    "options": ["Poor", "Outstanding", "Average", "Mediocre"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Exhaustive'?",
-    "options": ["Partial", "Thorough", "Incomplete", "Limited"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Exhort'?",
-    "options": ["To discourage", "To urge", "To dissuade", "To prevent"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Exigency'?",
-    "options": ["Leisure", "Emergency", "Delay", "Postponement"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Exonerate'?",
-    "options": ["To accuse", "To clear of blame", "To charge", "To condemn"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Exorbitant'?",
-    "options": ["Reasonable", "Excessive", "Moderate", "Fair"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Expedite'?",
-    "options": ["To delay", "To speed up", "To hinder", "To obstruct"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Explicit'?",
-    "options": ["Vague", "Clear", "Hidden", "Implied"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Extol'?",
-    "options": ["To criticize", "To praise", "To blame", "To condemn"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Extraneous'?",
-    "options": ["Relevant", "Irrelevant", "Essential", "Necessary"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Extrapolate'?",
-    "options": ["To ignore", "To infer", "To know", "To observe"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Extricate'?",
-    "options": ["To entangle", "To free", "To trap", "To ensnare"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Exuberant'?",
-    "options": ["Depressed", "Enthusiastic", "Sad", "Gloomy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Fabricate'?",
-    "options": ["To destroy", "To construct", "To demolish", "To ruin"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Facetious'?",
-    "options": ["Serious", "Humorous", "Solemn", "Grave"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Facile'?",
-    "options": ["Difficult", "Easy", "Complicated", "Challenging"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Fallacious'?",
-    "options": ["True", "Misleading", "Accurate", "Correct"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Fastidious'?",
-    "options": ["Careless", "Meticulous", "Sloppy", "Untidy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Fatuous'?",
-    "options": ["Wise", "Foolish", "Intelligent", "Sensible"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Fawn'?",
-    "options": ["To insult", "To flatter", "To criticize", "To oppose"],
-    "answer": "B"
+    "question": "What is the meaning of 'Beset'?",
+    "options": ["Surround and trouble", "Assist", "Help", "Escape"],
+    "answer": "A"
   },
   {
-    "question": "What is the meaning of 'Feasible'?",
-    "options": ["Impossible", "Possible", "Impractical", "Unworkable"],
+    "question": "What is the meaning of 'Harass'?",
+    "options": ["To encourage", "To attack or trouble", "To protect", "To reward"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Fecund'?",
-    "options": ["Barren", "Fertile", "Sterile", "Unproductive"],
-    "answer": "B"
+    "question": "What is the meaning of 'Surround'?",
+    "options": ["Escape", "Trap", "Enclose on all sides", "Chase"],
+    "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Felicity'?",
-    "options": ["Misery", "Happiness", "Sadness", "Grief"],
-    "answer": "B"
+    "question": "What is the meaning of 'Blaspheme'?",
+    "options": ["Speak irreverently", "Worship", "Pray", "Confess"],
+    "answer": "A"
   },
   {
-    "question": "What is the meaning of 'Fervent'?",
-    "options": ["Apathetic", "Passionate", "Cold", "Indifferent"],
+    "question": "What is the meaning of 'Irreverence'?",
+    "options": ["Respect", "Lack of respect", "Belief", "Sacrifice"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Fetter'?",
-    "options": ["To free", "To restrain", "To release", "To liberate"],
-    "answer": "B"
+    "question": "What is the meaning of 'Sacred'?",
+    "options": ["Holy", "Unholy", "Fake", "Cursed"],
+    "answer": "A"
   },
   {
-    "question": "What is the meaning of 'Fidelity'?",
-    "options": ["Disloyalty", "Loyalty", "Treachery", "Betrayal"],
-    "answer": "B"
+    "question": "What is the meaning of 'Profanity'?",
+    "options": ["Sacred speech", "Politeness", "Respectful words", "Offensive language"],
+    "answer": "D"
   },
   {
-    "question": "What is the meaning of 'Finesse'?",
-    "options": ["Clumsiness", "Tact", "Awkwardness", "Ineptitude"],
+    "question": "What is the meaning of 'Bereaved'?",
+    "options": ["Comforted", "Suffering loss", "Joyful", "Celebrated"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Flagrant'?",
-    "options": ["Subtle", "Glaring", "Hidden", "Concealed"],
+    "options": ["Obvious and offensive", "Hidden", "Subtle", "Silent"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Blatant'?",
+    "options": ["Concealed", "Obvious and noisy", "Secretive", "Quiet"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Flaunt'?",
-    "options": ["To hide", "To display", "To conceal", "To cover"],
+    "question": "What is the meaning of 'Glaring'?",
+    "options": ["Dim", "Faint", "Shining harshly", "Covered"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Blight'?",
+    "options": ["To improve", "A damaging condition", "A success", "A miracle"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Flout'?",
-    "options": ["To obey", "To mock", "To respect", "To honor"],
+    "question": "What is the meaning of 'Optimistic'?",
+    "options": ["Hopeful and positive", "Sad", "Doubtful", "Negative"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Cheerful'?",
+    "options": ["Happy", "Depressed", "Grumpy", "Irritated"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Carefree'?",
+    "options": ["Worried", "Joyful", "Burdened", "Without anxiety"],
+    "answer": "D"
+  },
+  {
+    "question": "What is the meaning of 'Blithe'?",
+    "options": ["Carefree and joyful", "Depressed", "Worried", "Sad"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Bovine'?",
+    "options": ["Energetic", "Cow-like or dull", "Lively", "Quick"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Foment'?",
-    "options": ["To calm", "To stir up", "To soothe", "To pacify"],
+    "question": "What is the meaning of 'Brevity'?",
+    "options": ["Lengthiness", "Repetition", "Shortness", "Boredom"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Bane'?",
+    "options": ["Blessing", "Curse or ruin", "Fortune", "Support"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Forbear'?",
-    "options": ["To indulge", "To refrain", "To act", "To proceed"],
+    "question": "What is the meaning of 'Broach'?",
+    "options": ["Close", "Avoid", "Bring up a topic", "End"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Postoral'?",
+    "options": ["Urban", "Countryside", "Noisy", "Crowded"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Forestall'?",
-    "options": ["To allow", "To prevent", "To encourage", "To promote"],
+    "question": "What is the meaning of 'Bucolic'?",
+    "options": ["Rural and peaceful", "Aggressive", "Industrial", "Stormy"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Bureaucracy'?",
+    "options": ["Efficient system", "Lack of structure", "Complex administrative system", "Free society"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Flourish'?",
+    "options": ["Wither", "Grow and prosper", "Decline", "Collapse"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Forsake'?",
-    "options": ["To keep", "To abandon", "To hold", "To retain"],
+    "question": "What is the meaning of 'Burgeon'?",
+    "options": ["Grow rapidly", "Stop", "Shrink", "Fade"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Expand'?",
+    "options": ["Reduce", "Break", "Enlarge", "Eliminate"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Burlesque'?",
+    "options": ["Serious play", "Satirical imitation", "Quiet scene", "Historic tale"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Fortuitous'?",
-    "options": ["Planned", "Accidental", "Intentional", "Deliberate"],
+    "question": "What is the meaning of 'Cacophony'?",
+    "options": ["Harmony", "Melody", "Harsh noise", "Silence"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Cadence'?",
+    "options": ["Sudden change", "A rhythmic flow", "Noise", "Disorder"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Fractious'?",
-    "options": ["Docile", "Unruly", "Obedient", "Compliant"],
+    "question": "What is the meaning of 'Cajole'?",
+    "options": ["Threaten", "Persuade by flattery", "Ignore", "Punish"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Frugal'?",
-    "options": ["Wasteful", "Thrifty", "Extravagant", "Generous"],
+    "question": "What is the meaning of 'Callow'?",
+    "options": ["Experienced", "Immature", "Wise", "Old"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Candor'?",
+    "options": ["Deception", "Flattery", "Honesty", "Suspicion"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Capitulate'?",
+    "options": ["Resist", "Surrender", "Attack", "Argue"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Capitalisation'?",
+    "options": ["Taking advantage", "Minimizing", "Ignoring", "Rejecting"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Surrender'?",
+    "options": ["Give up", "Persist", "Win", "Refuse"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Capricious'?",
+    "options": ["Steady", "Predictable", "Impulsive and changeable", "Reliable"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Caricature'?",
+    "options": ["Exact portrait", "Simple sketch", "Exaggerated imitation", "Realistic figure"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Exaggerate'?",
+    "options": ["Understate", "Minimize", "Overstate", "Balance"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Distort'?",
+    "options": ["Twist or misrepresent", "Clarify", "Repair", "Explain"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Severely'?",
+    "options": ["Harshly", "Gently", "Carelessly", "Softly"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Criticize'?",
+    "options": ["Praise", "Judge harshly", "Support", "Ignore"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Chastise'?",
+    "options": ["Punish", "Celebrate", "Forgive", "Neglect"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Castigate'?",
+    "options": ["Reward", "Encourage", "Scold severely", "Thank"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Definite'?",
+    "options": ["Fixed and clear", "Doubtful", "Uncertain", "Changing"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Categorical'?",
+    "options": ["Conditional", "Absolute and direct", "Optional", "Unclear"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Catharsis'?",
+    "options": ["Emotional release", "Resentment", "Revenge", "Suppression"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Universal'?",
+    "options": ["Global", "Rare", "Local", "Unique"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Embarrassing'?",
+    "options": ["Proud", "Humiliating", "Exciting", "Comforting"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Catholic'?",
+    "options": ["Narrow", "Biased", "Broad and universal", "Specific"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Caustic'?",
+    "options": ["Gentle", "Bitterly sarcastic", "Sweet", "Kind"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Abstinence'?",
+    "options": ["Indulgence", "Freedom", "Self-restraint", "Desire"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Celibacy'?",
+    "options": ["Wealth", "Abstaining from sex or marriage", "Glory", "Luxury"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Censure'?",
+    "options": ["Praise", "Celebrate", "Express strong disapproval", "Congratulate"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Condemn'?",
+    "options": ["Support", "Punish", "Criticize", "Approve"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Chagrin'?",
+    "options": ["Satisfaction", "Delight", "Embarrassment or distress", "Joy"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Distress'?",
+    "options": ["Peace", "Calm", "Extreme anxiety", "Pleasure"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Humiliate'?",
+    "options": ["Praise", "Shame", "Reward", "Respect"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Loyal'?",
+    "options": ["Faithful", "Dishonest", "Selfish", "Forgetful"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Charisma'?",
+    "options": ["Invisibility", "Magnetic charm", "Cowardice", "Aggression"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Charlatan'?",
+    "options": ["Expert", "Genuine", "Fraud or fake", "Leader"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Gorge'?",
+    "options": ["Eat greedily", "Ignore", "Sip slowly", "Fast"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Inflict'?",
+    "options": ["Suffer", "Cause pain", "Relieve", "Heal"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Chastise'?",
+    "options": ["Praise", "Ignore", "Punish severely", "Worship"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Deceitfulness'?",
+    "options": ["Sincerity", "Honesty", "Dishonesty", "Loyalty"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Artifice'?",
+    "options": ["Genuine act", "Trick or cunning", "Simplicity", "Wisdom"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Chimera'?",
+    "options": ["Dream or illusion", "Fact", "Proof", "Reality"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Illusion'?",
+    "options": ["Reality", "Dream", "False impression", "Truth"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Choleric'?",
+    "options": ["Bad-tempered", "Peaceful", "Joyful", "Lazy"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Tempered'?",
+    "options": ["Balanced", "Angry", "Stubborn", "Foolish"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Persisting'?",
+    "options": ["Giving up", "Continuing firmly", "Doubting", "Avoiding"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Chronic'?",
+    "options": ["Temporary", "Rare", "Long-lasting", "Sudden"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Chronical'?",
+    "options": ["Timely", "Record of events", "Urgent", "Recent"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Inveterate'?",
+    "options": ["Occasional", "Addicted", "Deep-rooted or habitual", "New"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Circuitous'?",
+    "options": ["Straightforward", "Roundabout", "Quick", "Open"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Circumlocution'?",
+    "options": ["Direct speech", "Clear talk", "Talking in circles", "Shouting"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Deliberate'?",
+    "options": ["Accidental", "Intentional", "Rushed", "Foolish"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Vague'?",
+    "options": ["Clear", "Precise", "Unclear", "Focused"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Evasive'?",
+    "options": ["Direct", "Avoiding the truth", "Truthful", "Accurate"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Circumscribe'?",
+    "options": ["Free", "Expand", "Restrict or limit", "Include"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Caution'?",
+    "options": ["Carelessness", "Hurry", "Warning or care", "Excitement"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Circumspect'?",
+    "options": ["Careful and cautious", "Reckless", "Careless", "Fast"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Civilized'?",
+    "options": ["Wild", "Cultured and polite", "Cruel", "Unkind"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Courteous'?",
+    "options": ["Rude", "Polite", "Angry", "Fearful"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Civil'?",
+    "options": ["Respectful", "Aggressive", "Angry", "Silent"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Illicit'?",
+    "options": ["Legal", "Wrong", "Secret", "Unlawful"],
+    "answer": "D"
+  },
+  {
+    "question": "What is the meaning of 'Clandestine'?",
+    "options": ["Open", "Lawful", "Secretive", "Obvious"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Sneak'?",
+    "options": ["Loudly enter", "Enter quietly and secretly", "Knock", "Warn"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Sneaky'?",
+    "options": ["Open", "Secretive and sly", "Brave", "Honest"],
     "answer": "B"
   },
   {
     "question": "What is the meaning of 'Furtive'?",
-    "options": ["Open", "Secretive", "Honest", "Direct"],
-    "answer": "B"
+    "options": ["Careless", "Joyful", "Secretive", "Rude"],
+    "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Futile'?",
-    "options": ["Effective", "Useless", "Productive", "Successful"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Gainsay'?",
-    "options": ["To agree", "To deny", "To confirm", "To support"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Garrulous'?",
-    "options": ["Taciturn", "Talkative", "Quiet", "Reserved"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Genteel'?",
-    "options": ["Rude", "Refined", "Crude", "Coarse"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Germane'?",
-    "options": ["Irrelevant", "Relevant", "Unrelated", "Extraneous"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Grandiose'?",
-    "options": ["Modest", "Grand", "Humble", "Simple"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Gratuitous'?",
-    "options": ["Necessary", "Unnecessary", "Essential", "Required"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Gregarious'?",
-    "options": ["Solitary", "Sociable", "Shy", "Reserved"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Guile'?",
-    "options": ["Honesty", "Deceit", "Sincerity", "Truthfulness"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Hackneyed'?",
-    "options": ["Original", "Overused", "Fresh", "New"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Hapless'?",
-    "options": ["Fortunate", "Unlucky", "Lucky", "Blessed"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Harangue'?",
-    "options": ["Quiet talk", "Loud speech", "Whisper", "Silence"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Harbinger'?",
-    "options": ["Follower", "Forerunner", "Result", "Effect"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Haughty'?",
-    "options": ["Humble", "Arrogant", "Modest", "Meek"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Hedonism'?",
-    "options": ["Asceticism", "Pleasure-seeking", "Abstinence", "Self-denial"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Heresy'?",
-    "options": ["Orthodoxy", "Heterodoxy", "Conformity", "Agreement"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Hiatus'?",
-    "options": ["Continuation", "Gap", "Connection", "Link"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Histrionic'?",
-    "options": ["Genuine", "Theatrical", "Natural", "Real"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Homily'?",
-    "options": ["Lecture", "Sermon", "Question", "Debate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Hyperbole'?",
-    "options": ["Understatement", "Exaggeration", "Truth", "Fact"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Iconoclast'?",
-    "options": ["Traditionalist", "Attacker of beliefs", "Follower", "Conformist"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Idiosyncrasy'?",
-    "options": ["Normality", "Peculiarity", "Regularity", "Commonness"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Ignominy'?",
-    "options": ["Honor", "Disgrace", "Praise", "Respect"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Immutable'?",
-    "options": ["Changeable", "Unchangeable", "Variable", "Flexible"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Impeccable'?",
-    "options": ["Faulty", "Faultless", "Imperfect", "Flawed"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Impervious'?",
-    "options": ["Permeable", "Impenetrable", "Open", "Receptive"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Impetuous'?",
-    "options": ["Cautious", "Rash", "Careful", "Deliberate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Implacable'?",
-    "options": ["Flexible", "Unyielding", "Agreeable", "Compromising"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Implicit'?",
-    "options": ["Stated", "Implied", "Clear", "Obvious"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Impugn'?",
-    "options": ["To support", "To challenge", "To agree", "To confirm"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Inane'?",
-    "options": ["Wise", "Silly", "Intelligent", "Sensible"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Inchoate'?",
-    "options": ["Developed", "Rudimentary", "Mature", "Complete"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Incontrovertible'?",
-    "options": ["Debatable", "Indisputable", "Questionable", "Doubtful"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Incumbent'?",
-    "options": ["Optional", "Obligatory", "Unnecessary", "Voluntary"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Indefatigable'?",
-    "options": ["Tireless", "Tired", "Weary", "Exhausted"],
+    "question": "What is the meaning of 'Concealed'?",
+    "options": ["Hidden", "Obvious", "Clear", "Announced"],
     "answer": "A"
   },
   {
-    "question": "What is the meaning of 'Indolent'?",
-    "options": ["Hardworking", "Lazy", "Active", "Energetic"],
+    "question": "What is the meaning of 'Usually'?",
+    "options": ["Rarely", "Always", "Typically", "Unexpectedly"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Clemency'?",
+    "options": ["Justice", "Strictness", "Mercy or leniency", "Anger"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Mercy'?",
+    "options": ["Harshness", "Forgiveness", "Revenge", "Control"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Ineffable'?",
-    "options": ["Expressible", "Inexpressible", "Clear", "Obvious"],
+    "question": "What is the meaning of 'Lenience'?",
+    "options": ["Kind or tolerant treatment", "Strictness", "Hate", "Harassment"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Forgiveness'?",
+    "options": ["Resentment", "Punishment", "Pardoning an offense", "Justice"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Forgiven'?",
+    "options": ["Punished", "Excused from blame", "Forgotten", "Blamed"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Inept'?",
-    "options": ["Competent", "Incompetent", "Skilled", "Capable"],
+    "question": "What is the meaning of 'Mildness'?",
+    "options": ["Harshness", "Soft or gentle nature", "Fierce", "Dangerous"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Inexorable'?",
-    "options": ["Stoppable", "Relentless", "Flexible", "Yielding"],
+    "question": "What is the meaning of 'Cliché'?",
+    "options": ["Original phrase", "Tired overused expression", "New idea", "Unique thought"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Ingenious'?",
-    "options": ["Uncreative", "Clever", "Dull", "Stupid"],
+    "question": "What is the meaning of 'Clique'?",
+    "options": ["Large crowd", "Inclusive group", "Exclusive small group", "Open forum"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Coalesce'?",
+    "options": ["Separate", "Unite into one", "Break", "Ignore"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Inherent'?",
-    "options": ["External", "Intrinsic", "Added", "Superficial"],
+    "question": "What is the meaning of 'Coerce'?",
+    "options": ["Force someone to act", "Plead", "Support", "Allow"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Persuade'?",
+    "options": ["Dissuade", "Compel", "Convince", "Prevent"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Convinced'?",
+    "options": ["Uncertain", "Believing firmly", "Resisting", "Ignoring"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Innocuous'?",
-    "options": ["Harmful", "Harmless", "Dangerous", "Toxic"],
+    "question": "What is the meaning of 'Cogent'?",
+    "options": ["Illogical", "Weak", "Convincing and clear", "False"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Cognitive'?",
+    "options": ["Emotional", "Mental processes", "Physical", "Inactive"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Insipid'?",
-    "options": ["Flavorful", "Dull", "Tasty", "Exciting"],
+    "question": "What is the meaning of 'Cognizant'?",
+    "options": ["Unaware", "Aware and informed", "Forgetful", "Distracted"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Insular'?",
-    "options": ["Open-minded", "Narrow-minded", "Broad", "Wide"],
+    "question": "What is the meaning of 'Coherent'?",
+    "options": ["Logical and consistent", "Random", "Chaotic", "Broken"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Colloquial'?",
+    "options": ["Formal", "Informal speech", "Ancient", "Scientific"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Intractable'?",
-    "options": ["Manageable", "Unmanageable", "Easy", "Simple"],
+    "question": "What is the meaning of 'Collusion'?",
+    "options": ["Accidental meeting", "Cooperation in wrongdoing", "Honest act", "War"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Intransigent'?",
-    "options": ["Flexible", "Uncompromising", "Agreeable", "Cooperative"],
+    "question": "What is the meaning of 'Deceive'?",
+    "options": ["Trick or mislead", "Support", "Follow", "Obey"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Conspiracy'?",
+    "options": ["Agreement", "Loyalty", "Secret plot", "Debate"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Commensurate'?",
+    "options": ["Unbalanced", "Proportional", "Excessive", "Smaller"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Intrepid'?",
-    "options": ["Fearful", "Fearless", "Timid", "Cowardly"],
+    "question": "What is the meaning of 'Evoking'?",
+    "options": ["Ignoring", "Forgetting", "Bringing to mind", "Dismissing"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Compelling'?",
+    "options": ["Uninspiring", "Weak", "Forceful and convincing", "Optional"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Irresistible'?",
+    "options": ["Avoidable", "Resistible", "Uncontrollably attractive", "Optional"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Resist'?",
+    "options": ["Give in", "Oppose or fight back", "Welcome", "Support"],
     "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Abridgement'?",
+    "options": ["Summary or shortening", "Expansion", "Addition", "Removal"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Prosecute'?",
+    "options": ["Forgive", "Sue or take legal action", "Heal", "Release"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Inclusion'?",
+    "options": ["Exclusion", "Addition", "Separation", "Avoidance"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Accompany'?",
+    "options": ["Go alone", "Go with", "Stay behind", "Ignore"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Dweller'?",
+    "options": ["Traveller", "Resident", "Outsider", "Guest"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Delighted'?",
+    "options": ["Upset", "Thrilled", "Bored", "Worried"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Compendium'?",
+    "options": ["Lengthy story", "Summary collection", "Boring list", "Joke"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Smug'?",
+    "options": ["Overly self-satisfied", "Shy", "Lazy", "Aggressive"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Contented'?",
+    "options": ["Unsatisfied", "Satisfied", "Angry", "Greedy"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Complacent'?",
+    "options": ["Lazy", "Self-satisfied with no awareness of danger", "Panicked", "Alert"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Complement'?",
+    "options": ["Match", "Replace", "Oppose", "Offset"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Complicity'?",
+    "options": ["Innocence", "Involvement", "Freedom", "Ignorance"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Accomplice'?",
+    "options": ["Stranger", "Witness", "Partner", "Victim"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Comprehensive'?",
+    "options": ["Narrow", "Brief", "Complete", "Simple"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Comprise'?",
+    "options": ["Include", "Exclude", "Omit", "Remove"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Conciliatory'?",
+    "options": ["Peaceful", "Aggressive", "Hostile", "Rough"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Goodwill'?",
+    "options": ["Kindness", "Anger", "Greed", "Rage"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Succinct'?",
+    "options": ["Lengthy", "Verbose", "Concise", "Rambling"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Concise'?",
+    "options": ["Brief", "Elaborate", "Complex", "Redundant"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Concord'?",
+    "options": ["Conflict", "Harmony", "Struggle", "Noise"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Harmony'?",
+    "options": ["Chaos", "Unity", "Tension", "Distress"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Concurrent'?",
+    "options": ["Sequential", "Simultaneous", "Temporary", "Alternate"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Patronize'?",
+    "options": ["Ignore", "Insult", "Support", "Oppose"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Condescend'?",
+    "options": ["Boast", "Submit", "Belittle", "Respect"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Overlook'?",
+    "options": ["Notice", "Miss", "Observe", "Ignore"],
+    "answer": "D"
+  },
+  {
+    "question": "What is the meaning of 'Condone'?",
+    "options": ["Pardon", "Punish", "Disapprove", "Refuse"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Conductive'?",
+    "options": ["Helpful", "Harmful", "Delaying", "Blocking"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Confluence'?",
+    "options": ["Separation", "Meeting", "Descent", "Spread"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Congenial'?",
+    "options": ["Unfriendly", "Pleasant", "Selfish", "Reserved"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Congenital'?",
+    "options": ["Inherited", "Artificial", "Spontaneous", "Natural"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Innate'?",
+    "options": ["Acquired", "Inborn", "External", "Learned"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Trait'?",
+    "options": ["Habit", "Feature", "Flaw", "Manner"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Conjecture'?",
+    "options": ["Guess", "Fact", "Law", "Truth"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Conjure'?",
+    "options": ["Summon", "Delay", "Explain", "Escape"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Connoisseur'?",
+    "options": ["Beginner", "Expert", "Critic", "Fan"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Consecrate'?",
+    "options": ["Destroy", "Curse", "Bless", "Reject"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Consensus'?",
+    "options": ["Agreement", "Protest", "Argument", "Refusal"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Unanimity'?",
+    "options": ["Division", "Vote", "Unity", "Rivalry"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Harmonious'?",
+    "options": ["Rough", "Melodic", "Sharp", "Silent"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Consonant'?",
+    "options": ["In agreement", "In conflict", "Accidental", "Unrelated"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Interpret'?",
+    "options": ["Ignore", "Translate", "Refuse", "Silence"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Construe'?",
+    "options": ["Argue", "Analyze", "Misread", "Explain"],
+    "answer": "D"
+  },
+  {
+    "question": "What is the meaning of 'Consummate'?",
+    "options": ["Perfect", "Basic", "Temporary", "Failed"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Argument'?",
+    "options": ["Dispute", "Solution", "Peace", "Fact"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Controversial'?",
+    "options": ["Simple", "Debatable", "Obvious", "Certain"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Contentious'?",
+    "options": ["Friendly", "Helpful", "Argumentative", "Kind"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Quarrelsome'?",
+    "options": ["Calm", "Polite", "Aggressive", "Irritable"],
+    "answer": "D"
+  },
+  {
+    "question": "What is the meaning of 'Contiguous'?",
+    "options": ["Far", "Separate", "Adjacent", "Remote"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Dependent'?",
+    "options": ["Selfish", "Reliable", "Needy", "Independent"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Contingent'?",
+    "options": ["Certain", "Guaranteed", "Conditional", "Absolute"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Contrite'?",
+    "options": ["Proud", "Remorseful", "Excited", "Cheerful"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Remorse'?",
+    "options": ["Guilt", "Joy", "Hope", "Blame"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Remorseful'?",
+    "options": ["Sorry", "Reckless", "Cruel", "Angry"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Labored'?",
+    "options": ["Relaxed", "Effortful", "Swift", "Natural"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Contrived'?",
+    "options": ["Spontaneous", "Artificial", "Unplanned", "Original"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Conventional'?",
+    "options": ["Normal", "Weird", "Rare", "Limited"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Convivial'?",
+    "options": ["Friendly", "Lonely", "Silent", "Lazy"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Copious'?",
+    "options": ["Scant", "Abundant", "Few", "Tiny"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Abundant'?",
+    "options": ["Empty", "Rare", "Plentiful", "Limited"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Plentiful'?",
+    "options": ["Short", "Ample", "Rare", "Harsh"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Corollary'?",
+    "options": ["Outcome", "Beginning", "Theory", "Cause"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Corroborate'?",
+    "options": ["Deny", "Support", "Destroy", "Attack"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Proposition'?",
+    "options": ["Agreement", "Idea", "Plan", "Demand"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Cosmopolitan'?",
+    "options": ["Simple", "Worldly", "Isolated", "Provincial"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Countenance'?",
+    "options": ["Refuse", "Tolerate", "Deny", "Condemn"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Coup'?",
+    "options": ["Revolution", "Disaster", "Retreat", "Collapse"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Solemn'?",
+    "options": ["Joyful", "Serious", "Casual", "Noisy"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Covenant'?",
+    "options": ["Promise", "Lie", "Break", "Refusal"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Covert'?",
+    "options": ["Public", "Secret", "Loud", "Open"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Covet'?",
+    "options": ["Desire", "Hate", "Neglect", "Reject"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Credulous'?",
+    "options": ["Skeptical", "Gullible", "Careful", "Realistic"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Credible'?",
+    "options": ["Doubtful", "Plausible", "Weak", "False"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Credence'?",
+    "options": ["Belief", "Rumor", "Opinion", "Lie"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Creditable'?",
+    "options": ["Forgetful", "Praiseable", "Dishonest", "Lazy"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Criterion'?",
+    "options": ["Standard", "Emotion", "Guess", "Option"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Cryptic'?",
+    "options": ["Clear", "Hidden", "Obvious", "Simple"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Mystifying'?",
+    "options": ["Plain", "Confusing", "Helpful", "Loud"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Perplex'?",
+    "options": ["Clarify", "Confuse", "Fix", "Understand"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Bewilder'?",
+    "options": ["Ignore", "Comfort", "Puzzle", "Avoid"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Utterly'?",
+    "options": ["Partly", "Completely", "Maybe", "Almost"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Culinary'?",
+    "options": ["Cooking", "Writing", "Medicine", "Travel"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Culminate'?",
+    "options": ["Begin", "Climax", "Repeat", "Decline"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Climax'?",
+    "options": ["Ending", "Beginning", "Peak", "Pause"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Culpable'?",
+    "options": ["Guilty", "Innocent", "Lucky", "Aware"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Cursory'?",
+    "options": ["Hasty", "Detailed", "Slow", "Accurate"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Hasty'?",
+    "options": ["Quick", "Rough", "Delayed", "Easy"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Curtail'?",
+    "options": ["Lengthen", "Reduce", "Postpone", "Extend"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Superficial'?",
+    "options": ["Deep", "Surface", "Important", "Hidden"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Cynic'?",
+    "options": ["Believer", "Supporter", "Skeptic", "Helper"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Motivate'?",
+    "options": ["Discourage", "Inspire", "Worry", "Annoy"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Intimated'?",
+    "options": ["Announced", "Implied", "Shouted", "Demanded"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Daunt'?",
+    "options": ["Inspire", "Frighten", "Cheer", "Persuade"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Dearth'?",
+    "options": ["Flood", "Scarcity", "Excess", "Plenty"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Scarcity'?",
+    "options": ["Lack", "Wealth", "Rush", "Growth"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Intimidate'?",
+    "options": ["Encourage", "Threaten", "Inspire", "Assist"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Debacle'?",
+    "options": ["Victory", "Disaster", "Achievement", "Success"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Overthrow'?",
+    "options": ["Defeat", "Support", "Rise", "Obey"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Debauchery'?",
+    "options": ["Purity", "Discipline", "Corruption", "Elegance"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Sensual'?",
+    "options": ["Emotional", "Spiritual", "Physical", "Intellectual"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Gratification'?",
+    "options": ["Satisfaction", "Hesitation", "Boredom", "Disgust"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Intemperance'?",
+    "options": ["Moderation", "Excess", "Peace", "Silence"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Debilitate'?",
+    "options": ["Strengthen", "Weaken", "Grow", "Push"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Infirm'?",
+    "options": ["Sick", "Strong", "Healthy", "Able"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Cripple'?",
+    "options": ["Repair", "Damage", "Injure", "Recover"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Decadent'?",
+    "options": ["Moral", "Corrupt", "Clean", "Polite"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Decimate'?",
+    "options": ["Create", "Destroy", "Preserve", "Multiply"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Decorous'?",
+    "options": ["Proper", "Rude", "Odd", "Awkward"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Infer'?",
+    "options": ["Assume", "Forget", "Announce", "Explain"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Deduce'?",
+    "options": ["Conclude", "Delay", "Refuse", "Ignore"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Slander'?",
+    "options": ["Praise", "Insult", "Lie", "Honor"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Defame'?",
+    "options": ["Honor", "Praise", "Slander", "Support"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Submission'?",
+    "options": ["Resistance", "Rebellion", "Compliance", "Command"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Deference'?",
+    "options": ["Courtesy", "Rudeness", "Pride", "Insult"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Courtesy'?",
+    "options": ["Respect", "Indifference", "Anger", "Jealousy"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Definitive'?",
+    "options": ["Temporary", "Unclear", "Conclusive", "False"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Conclusive'?",
+    "options": ["Uncertain", "Final", "Brief", "Ongoing"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Deteriorate'?",
+    "options": ["Improve", "Enhance", "Degenerate", "Advance"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Degenerate'?",
+    "options": ["Strengthen", "Decay", "Improve", "Create"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'To break down'?",
+    "options": ["Crack", "Collapse", "Split", "Deteriorate"],
+    "answer": "D"
+  },
+  {
+    "question": "What is the meaning of 'Deleterious'?",
+    "options": ["Helpful", "Injurious", "Harmless", "Useful"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Delineate'?",
+    "options": ["Explain", "Outline", "Distort", "Repeat"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Delude'?",
+    "options": ["Believe", "Cheat", "Confess", "Resist"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Deceive'?",
+    "options": ["Lie", "Trick", "Blame", "Control"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Deluge'?",
+    "options": ["Overflow", "Storm", "Flood", "Mist"],
+    "answer": "C"
   },
   {
     "question": "What is the meaning of 'Inundate'?",
-    "options": ["To drain", "To flood", "To dry", "To empty"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Inured'?",
-    "options": ["Sensitive", "Hardened", "Tender", "Soft"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Invective'?",
-    "options": ["Praise", "Abuse", "Compliment", "Flattery"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Irascible'?",
-    "options": ["Good-tempered", "Irritable", "Calm", "Peaceful"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Itinerant'?",
-    "options": ["Settled", "Wandering", "Fixed", "Stationary"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Judicious'?",
-    "options": ["Foolish", "Wise", "Rash", "Careless"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Juxtapose'?",
-    "options": ["To separate", "To place side by side", "To hide", "To remove"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Labyrinth'?",
-    "options": ["Straight path", "Maze", "Open field", "Simple route"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Laconic'?",
-    "options": ["Wordy", "Brief", "Detailed", "Lengthy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Lament'?",
-    "options": ["To celebrate", "To mourn", "To praise", "To enjoy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Lampoon'?",
-    "options": ["To praise", "To satirize", "To honor", "To respect"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Languid'?",
-    "options": ["Energetic", "Sluggish", "Vigorous", "Active"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Largess'?",
-    "options": ["Stinginess", "Generosity", "Greed", "Selfishness"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Latent'?",
-    "options": ["Active", "Dormant", "Obvious", "Visible"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Laud'?",
-    "options": ["To criticize", "To praise", "To blame", "To condemn"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Lethargy'?",
-    "options": ["Energy", "Sluggishness", "Vitality", "Enthusiasm"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Levity'?",
-    "options": ["Seriousness", "Lightness", "Gravity", "Solemnity"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Libel'?",
-    "options": ["Praise", "Defamation", "Compliment", "Approval"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Loquacious'?",
-    "options": ["Taciturn", "Talkative", "Silent", "Reserved"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Lucid'?",
-    "options": ["Confusing", "Clear", "Muddled", "Obscure"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Lugubrious'?",
-    "options": ["Cheerful", "Mournful", "Happy", "Joyful"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Luminous'?",
-    "options": ["Dark", "Radiant", "Dull", "Dim"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Machination'?",
-    "options": ["Honest plan", "Scheming", "Openness", "Transparency"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Magnanimous'?",
-    "options": ["Petty", "Generous", "Mean", "Selfish"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Malaise'?",
-    "options": ["Well-being", "Uneasiness", "Health", "Vigor"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Malinger'?",
-    "options": ["To work hard", "To feign illness", "To heal", "To recover"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Malleable'?",
-    "options": ["Rigid", "Pliable", "Stiff", "Inflexible"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Maverick'?",
-    "options": ["Conformist", "Nonconformist", "Follower", "Traditionalist"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Mellifluous'?",
-    "options": ["Harsh", "Sweet-sounding", "Grating", "Discordant"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Mendacious'?",
-    "options": ["Truthful", "Lying", "Honest", "Sincere"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Mercenary'?",
-    "options": ["Altruistic", "Greedy", "Generous", "Selfless"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Mercurial'?",
-    "options": ["Steady", "Changeable", "Constant", "Stable"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Metamorphosis'?",
-    "options": ["Stagnation", "Transformation", "Permanence", "Sameness"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Meticulous'?",
-    "options": ["Careless", "Precise", "Sloppy", "Negligent"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Microcosm'?",
-    "options": ["Universe", "Miniature world", "Expansion", "Vastness"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Mirth'?",
-    "options": ["Sorrow", "Merry", "Gloom", "Sadness"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Misanthrope'?",
-    "options": ["People-lover", "People-hater", "Philanthropist", "Humanist"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Mitigate'?",
-    "options": ["To worsen", "To alleviate", "To aggravate", "To intensify"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Mollify'?",
-    "options": ["To anger", "To soothe", "To provoke", "To irritate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Monolithic'?",
-    "options": ["Diverse", "Uniform", "Varied", "Mixed"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Moribund'?",
-    "options": ["Thriving", "Dying", "Living", "Vibrant"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Morose'?",
-    "options": ["Cheerful", "Gloomy", "Happy", "Joyful"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Mundane'?",
-    "options": ["Extraordinary", "Ordinary", "Remarkable", "Exceptional"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Munificent'?",
-    "options": ["Stingy", "Generous", "Miserly", "Selfish"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Myriad'?",
-    "options": ["Few", "Countless", "Limited", "Scarce"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Nadir'?",
-    "options": ["Peak", "Lowest point", "Summit", "Top"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Narcissism'?",
-    "options": ["Selflessness", "Self-love", "Altruism", "Generosity"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Nebulous'?",
-    "options": ["Clear", "Vague", "Definite", "Precise"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Nefarious'?",
-    "options": ["Virtuous", "Wicked", "Moral", "Good"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Negligent'?",
-    "options": ["Careful", "Careless", "Attentive", "Diligent"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Neologism'?",
-    "options": ["Old word", "New word", "Archaism", "Ancient term"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Nepotism'?",
-    "options": ["Fairness", "Favoritism", "Justice", "Impartiality"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Nihilism'?",
-    "options": ["Belief in values", "Rejection of values", "Optimism", "Idealism"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Nocturnal'?",
-    "options": ["Diurnal", "Nightly", "Daytime", "Morning"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Nominal'?",
-    "options": ["Substantial", "Minimal", "Significant", "Considerable"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Nonchalant'?",
-    "options": ["Anxious", "Casual", "Concerned", "Worried"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Nostalgia'?",
-    "options": ["Future-looking", "Longing for the past", "Present-focused", "Forward-thinking"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Notorious'?",
-    "options": ["Unknown", "Famous for bad reasons", "Anonymous", "Obscure"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Novel'?",
-    "options": ["Common", "New", "Traditional", "Old"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Noxious'?",
-    "options": ["Harmless", "Harmful", "Beneficial", "Healthy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Nuance'?",
-    "options": ["Obvious difference", "Subtle difference", "Clear distinction", "Blatant variation"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Nurture'?",
-    "options": ["To neglect", "To care for", "To abandon", "To ignore"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Obfuscate'?",
-    "options": ["To clarify", "To confuse", "To explain", "To illuminate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Oblique'?",
-    "options": ["Direct", "Indirect", "Straight", "Explicit"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Oblivion'?",
-    "options": ["Memory", "Forgetfulness", "Recollection", "Remembrance"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Obsequious'?",
-    "options": ["Defiant", "Servile", "Independent", "Assertive"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Obstinate'?",
-    "options": ["Flexible", "Stubborn", "Yielding", "Compliant"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Obtuse'?",
-    "options": ["Sharp", "Dull", "Intelligent", "Astute"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Officious'?",
-    "options": ["Unhelpful", "Meddlesome", "Discreet", "Tactful"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Ominous'?",
-    "options": ["Promising", "Threatening", "Hopeful", "Encouraging"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Omnipotent'?",
-    "options": ["Powerless", "All-powerful", "Weak", "Feeble"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Onerous'?",
-    "options": ["Easy", "Burdensome", "Light", "Simple"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Opaque'?",
-    "options": ["Transparent", "Non-transparent", "Clear", "Lucid"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Opulent'?",
-    "options": ["Poor", "Wealthy", "Modest", "Humble"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Orthodox'?",
-    "options": ["Unconventional", "Conventional", "Radical", "Innovative"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Ostensible'?",
-    "options": ["Real", "Apparent", "Actual", "Genuine"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Ostentatious'?",
-    "options": ["Modest", "Showy", "Simple", "Plain"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Oust'?",
-    "options": ["To install", "To eject", "To welcome", "To accept"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Overwrought'?",
-    "options": ["Calm", "Agitated", "Peaceful", "Serene"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Pacify'?",
-    "options": ["To anger", "To calm", "To provoke", "To irritate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Palatable'?",
-    "options": ["Unpleasant", "Pleasant", "Disagreeable", "Repulsive"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Palliate'?",
-    "options": ["To worsen", "To alleviate", "To aggravate", "To intensify"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Pallid'?",
-    "options": ["Ruddy", "Pale", "Colorful", "Vibrant"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Panacea'?",
-    "options": ["Specific remedy", "Cure-all", "Problem", "Disease"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Paradigm'?",
-    "options": ["Exception", "Model", "Anomaly", "Irregularity"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Paragon'?",
-    "options": ["Flawed example", "Model of excellence", "Ordinary specimen", "Mediocre sample"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Paramount'?",
-    "options": ["Minor", "Supreme", "Trivial", "Insignificant"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Pariah'?",
-    "options": ["Favorite", "Outcast", "Insider", "Member"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Parochial'?",
-    "options": ["Cosmopolitan", "Narrow-minded", "Worldly", "Sophisticated"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Parsimonious'?",
-    "options": ["Generous", "Stingy", "Lavish", "Extravagant"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Partisan'?",
-    "options": ["Impartial", "Biased", "Neutral", "Fair"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Pathological'?",
-    "options": ["Normal", "Diseased", "Healthy", "Wholesome"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Paucity'?",
-    "options": ["Abundance", "Scarcity", "Plenty", "Surplus"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Peccadillo'?",
-    "options": ["Major sin", "Minor fault", "Virtue", "Good deed"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Pedantic'?",
-    "options": ["Casual", "Ostentatious in learning", "Simple", "Uneducated"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Pedestrian'?",
-    "options": ["Extraordinary", "Ordinary", "Remarkable", "Exceptional"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Penchant'?",
-    "options": ["Dislike", "Strong liking", "Hatred", "Aversion"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Penury'?",
-    "options": ["Wealth", "Poverty", "Affluence", "Prosperity"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Perennial'?",
-    "options": ["Temporary", "Lasting", "Brief", "Short-lived"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Perfidious'?",
-    "options": ["Loyal", "Treacherous", "Faithful", "Trustworthy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Perfunctory'?",
-    "options": ["Thorough", "Superficial", "Detailed", "Careful"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Permeate'?",
-    "options": ["To block", "To spread through", "To stop", "To hinder"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Pernicious'?",
-    "options": ["Harmless", "Harmful", "Beneficial", "Helpful"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Perpetrate'?",
-    "options": ["To prevent", "To commit", "To stop", "To hinder"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Perspicacious'?",
-    "options": ["Dull", "Shrewd", "Stupid", "Obtuse"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Pertinent'?",
-    "options": ["Irrelevant", "Relevant", "Unrelated", "Extraneous"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Peruse'?",
-    "options": ["To skim", "To read carefully", "To ignore", "To overlook"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Pervasive'?",
-    "options": ["Limited", "Widespread", "Restricted", "Confined"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Petulant'?",
-    "options": ["Good-natured", "Irritable", "Pleasant", "Agreeable"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Philanthropy'?",
-    "options": ["Miserliness", "Charity", "Greed", "Selfishness"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Phlegmatic'?",
-    "options": ["Excitable", "Calm", "Emotional", "Passionate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Pious'?",
-    "options": ["Irreligious", "Devout", "Atheistic", "Secular"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Pivotal'?",
-    "options": ["Insignificant", "Crucial", "Minor", "Trivial"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Placate'?",
-    "options": ["To anger", "To pacify", "To provoke", "To irritate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Placid'?",
-    "options": ["Agitated", "Calm", "Turbulent", "Stormy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Platitude'?",
-    "options": ["Original remark", "Trite remark", "Innovative idea", "Fresh perspective"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Plethora'?",
-    "options": ["Scarcity", "Excess", "Lack", "Shortage"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Poignant'?",
-    "options": ["Unemotional", "Emotionally moving", "Numb", "Insensitive"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Polarize'?",
-    "options": ["To unite", "To divide", "To combine", "To merge"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Polemical'?",
-    "options": ["Conciliatory", "Controversial", "Peaceful", "Agreeable"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Ponderous'?",
-    "options": ["Light", "Heavy", "Graceful", "Delicate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Portent'?",
-    "options": ["Aftermath", "Omen", "Result", "Outcome"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Potentate'?",
-    "options": ["Commoner", "Ruler", "Subject", "Citizen"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Pragmatic'?",
-    "options": ["Idealistic", "Practical", "Theoretical", "Abstract"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Precarious'?",
-    "options": ["Secure", "Unstable", "Safe", "Certain"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Precipitate'?",
-    "options": ["To delay", "To hasten", "To slow", "To hinder"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Preclude'?",
-    "options": ["To allow", "To prevent", "To permit", "To enable"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Precocious'?",
-    "options": ["Backward", "Advanced", "Slow", "Delayed"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Predilection'?",
-    "options": ["Dislike", "Preference", "Aversion", "Hatred"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Preeminent'?",
-    "options": ["Inferior", "Outstanding", "Ordinary", "Mediocre"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Premonition'?",
-    "options": ["Memory", "Forewarning", "Recollection", "Remembrance"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Preponderance'?",
-    "options": ["Scarcity", "Majority", "Lack", "Minority"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Presage'?",
-    "options": ["To forget", "To foretell", "To ignore", "To overlook"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Presumptuous'?",
-    "options": ["Modest", "Bold", "Humble", "Unassuming"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Prevaricate'?",
-    "options": ["To be honest", "To lie", "To confess", "To admit"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Pristine'?",
-    "options": ["Dirty", "Unspoiled", "Polluted", "Corrupt"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Probity'?",
-    "options": ["Dishonesty", "Integrity", "Corruption", "Deceit"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Proclivity'?",
-    "options": ["Aversion", "Inclination", "Dislike", "Hatred"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Procure'?",
-    "options": ["To lose", "To obtain", "To give up", "To surrender"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Prodigal'?",
-    "options": ["Frugal", "Wasteful", "Thrifty", "Economical"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Prodigious'?",
-    "options": ["Small", "Enormous", "Tiny", "Minuscule"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Profane'?",
-    "options": ["Sacred", "Irreverent", "Holy", "Pious"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Profligate'?",
-    "options": ["Thrifty", "Wasteful", "Frugal", "Economical"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Profound'?",
-    "options": ["Superficial", "Deep", "Shallow", "Trivial"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Proliferate'?",
-    "options": ["To decrease", "To multiply", "To diminish", "To reduce"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Prolific'?",
-    "options": ["Unproductive", "Productive", "Barren", "Sterile"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Promulgate'?",
-    "options": ["To suppress", "To proclaim", "To hide", "To conceal"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Propensity'?",
-    "options": ["Disinclination", "Tendency", "Aversion", "Dislike"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Propitious'?",
-    "options": ["Unfavorable", "Favorable", "Adverse", "Unlucky"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Prosaic'?",
-    "options": ["Poetic", "Dull", "Imaginative", "Creative"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Proscribe'?",
-    "options": ["To allow", "To forbid", "To permit", "To approve"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Provident'?",
-    "options": ["Wasteful", "Frugal", "Extravagant", "Prodigal"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Provincial'?",
-    "options": ["Cosmopolitan", "Narrow-minded", "Worldly", "Sophisticated"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Prudent'?",
-    "options": ["Reckless", "Wise", "Foolish", "Careless"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Pugnacious'?",
-    "options": ["Peaceful", "Combative", "Gentle", "Mild"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Punctilious'?",
-    "options": ["Careless", "Precise", "Sloppy", "Negligent"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Pundit'?",
-    "options": ["Novice", "Expert", "Amateur", "Beginner"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Pungent'?",
-    "options": ["Mild", "Sharp", "Bland", "Tasteless"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Purport'?",
-    "options": ["To hide", "To claim", "To conceal", "To suppress"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Quagmire'?",
-    "options": ["Firm ground", "Difficult situation", "Easy path", "Simple solution"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Querulous'?",
-    "options": ["Content", "Complaining", "Satisfied", "Happy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Quixotic'?",
-    "options": ["Practical", "Idealistic", "Realistic", "Sensible"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Quotidian'?",
-    "options": ["Extraordinary", "Everyday", "Remarkable", "Exceptional"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Recalcitrant'?",
-    "options": ["Obedient", "Stubbornly resistant", "Compliant", "Submissive"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Recant'?",
-    "options": ["To affirm", "To withdraw a statement", "To declare", "To assert"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Reciprocal'?",
-    "options": ["One-sided", "Mutual", "Unilateral", "Independent"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Recluse'?",
-    "options": ["Socialite", "Hermit", "Extrovert", "Gregarious person"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Recondite'?",
-    "options": ["Simple", "Obscure", "Clear", "Straightforward"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Recrimination'?",
-    "options": ["Praise", "Counter-accusation", "Compliment", "Approval"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Redolent'?",
-    "options": ["Odorless", "Fragrant", "Foul-smelling", "Scentless"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Redundant'?",
-    "options": ["Essential", "Unnecessary", "Required", "Needed"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Refractory'?",
-    "options": ["Manageable", "Stubborn", "Obedient", "Compliant"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Refute'?",
-    "options": ["To support", "To disprove", "To confirm", "To verify"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Regale'?",
-    "options": ["To bore", "To entertain", "To tire", "To exhaust"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Relegate'?",
-    "options": ["To promote", "To demote", "To advance", "To elevate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Remiss'?",
-    "options": ["Diligent", "Negligent", "Careful", "Attentive"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Remonstrate'?",
-    "options": ["To agree", "To protest", "To approve", "To endorse"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Renaissance'?",
-    "options": ["Decline", "Rebirth", "Decay", "Deterioration"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Renounce'?",
-    "options": ["To embrace", "To reject", "To accept", "To adopt"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Repast'?",
-    "options": ["Fast", "Meal", "Starvation", "Hunger"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Replete'?",
-    "options": ["Empty", "Full", "Hungry", "Starving"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Reprehensible'?",
-    "options": ["Praiseworthy", "Blameworthy", "Commendable", "Admirable"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Reprieve'?",
-    "options": ["Punishment", "Temporary relief", "Penalty", "Sentence"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Reprobate'?",
-    "options": ["Saint", "Immoral person", "Angel", "Virtuous person"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Repudiate'?",
-    "options": ["To accept", "To reject", "To embrace", "To acknowledge"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Rescind'?",
-    "options": ["To enforce", "To revoke", "To validate", "To confirm"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Resolute'?",
-    "options": ["Hesitant", "Determined", "Uncertain", "Doubtful"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Respite'?",
-    "options": ["Continuation", "Break", "Persistence", "Extension"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Restive'?",
-    "options": ["Calm", "Restless", "Peaceful", "Tranquil"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Reticent'?",
-    "options": ["Talkative", "Reserved", "Outspoken", "Verbose"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Revere'?",
-    "options": ["To despise", "To respect", "To hate", "To loathe"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Rhetoric'?",
-    "options": ["Plain speech", "Persuasive language", "Simple talk", "Direct communication"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Ribald'?",
-    "options": ["Decent", "Vulgar", "Proper", "Modest"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Rife'?",
-    "options": ["Scarce", "Abundant", "Rare", "Limited"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Robust'?",
-    "options": ["Weak", "Strong", "Fragile", "Feeble"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Rogue'?",
-    "options": ["Honest person", "Dishonest person", "Saint", "Angel"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Rudimentary'?",
-    "options": ["Advanced", "Basic", "Complex", "Sophisticated"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Ruminate'?",
-    "options": ["To forget", "To ponder", "To ignore", "To disregard"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Rustic'?",
-    "options": ["Urban", "Rural", "Sophisticated", "Polished"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Ruthless'?",
-    "options": ["Compassionate", "Merciless", "Kind", "Gentle"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Saccharine'?",
-    "options": ["Bitter", "Overly sweet", "Sour", "Tart"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sage'?",
-    "options": ["Fool", "Wise person", "Idiot", "Simpleton"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Salient'?",
-    "options": ["Insignificant", "Prominent", "Minor", "Unimportant"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Salutary'?",
-    "options": ["Harmful", "Beneficial", "Damaging", "Destructive"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sanctimonious'?",
-    "options": ["Genuine", "Hypocritically pious", "Honest", "Sincere"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sanguine'?",
-    "options": ["Pessimistic", "Optimistic", "Gloomy", "Depressed"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sardonic'?",
-    "options": ["Sincere", "Mocking", "Genuine", "Honest"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Satiate'?",
-    "options": ["To starve", "To satisfy fully", "To deprive", "To deny"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Scintillating'?",
-    "options": ["Dull", "Sparkling", "Boring", "Tedious"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Scrupulous'?",
-    "options": ["Careless", "Conscientious", "Negligent", "Reckless"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Scrutinize'?",
-    "options": ["To ignore", "To examine closely", "To overlook", "To neglect"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sedition'?",
-    "options": ["Loyalty", "Rebellion", "Allegiance", "Patriotism"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sedulous'?",
-    "options": ["Lazy", "Diligent", "Idle", "Slothful"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sentient'?",
-    "options": ["Insensitive", "Conscious", "Unaware", "Ignorant"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Serendipity'?",
-    "options": ["Misfortune", "Fortunate accident", "Bad luck", "Disaster"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Servile'?",
-    "options": ["Dominant", "Submissive", "Assertive", "Commanding"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Simper'?",
-    "options": ["To frown", "To smile affectedly", "To scowl", "To glare"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sinecure'?",
-    "options": ["Demanding job", "Easy job", "Difficult task", "Challenging work"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sinuous'?",
-    "options": ["Straight", "Winding", "Direct", "Linear"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Skittish'?",
-    "options": ["Calm", "Nervous", "Steady", "Composed"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Slothful'?",
-    "options": ["Energetic", "Lazy", "Active", "Vigorous"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sobriety'?",
-    "options": ["Drunkenness", "Soberness", "Intoxication", "Inebriation"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Solicitous'?",
-    "options": ["Indifferent", "Concerned", "Unconcerned", "Careless"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Soporific'?",
-    "options": ["Stimulating", "Sleep-inducing", "Energizing", "Invigorating"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sordid'?",
-    "options": ["Honorable", "Dishonorable", "Noble", "Virtuous"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Specious'?",
-    "options": ["Genuine", "Misleading", "Authentic", "Valid"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Spurious'?",
-    "options": ["Genuine", "Fake", "Authentic", "Real"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Squalid'?",
-    "options": ["Clean", "Dirty", "Tidy", "Neat"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Squander'?",
-    "options": ["To save", "To waste", "To conserve", "To preserve"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stagnant'?",
-    "options": ["Flowing", "Motionless", "Active", "Dynamic"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Staid'?",
-    "options": ["Exciting", "Sedate", "Wild", "Unrestrained"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stanza'?",
-    "options": ["Paragraph", "Verse", "Sentence", "Line"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Static'?",
-    "options": ["Changing", "Unchanging", "Dynamic", "Active"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Staunch'?",
-    "options": ["Disloyal", "Loyal", "Unfaithful", "Treacherous"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stentorian'?",
-    "options": ["Quiet", "Loud", "Soft", "Gentle"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stigma'?",
-    "options": ["Honor", "Disgrace", "Praise", "Compliment"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stipulate'?",
-    "options": ["To imply", "To specify", "To suggest", "To hint"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stoic'?",
-    "options": ["Emotional", "Unemotional", "Sensitive", "Passionate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stolid'?",
-    "options": ["Excitable", "Impassive", "Emotional", "Sensitive"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Strident'?",
-    "options": ["Soft", "Harsh", "Gentle", "Mild"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stringent'?",
-    "options": ["Lenient", "Strict", "Flexible", "Easygoing"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stultify'?",
-    "options": ["To stimulate", "To inhibit", "To encourage", "To inspire"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stymie'?",
-    "options": ["To assist", "To obstruct", "To help", "To facilitate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Subjugate'?",
-    "options": ["To liberate", "To conquer", "To free", "To release"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sublime'?",
-    "options": ["Ordinary", "Majestic", "Common", "Mundane"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Subterfuge'?",
-    "options": ["Honesty", "Deceit", "Truth", "Sincerity"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Subversive'?",
-    "options": ["Supportive", "Destructive", "Loyal", "Patriotic"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Succinct'?",
-    "options": ["Wordy", "Concise", "Lengthy", "Verbose"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Succumb'?",
-    "options": ["To resist", "To yield", "To fight", "To oppose"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Supercilious'?",
-    "options": ["Humble", "Arrogant", "Modest", "Meek"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Superfluous'?",
-    "options": ["Necessary", "Unnecessary", "Essential", "Required"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Surfeit'?",
-    "options": ["Scarcity", "Excess", "Lack", "Shortage"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Surreptitious'?",
-    "options": ["Open", "Secret", "Public", "Overt"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sycophant'?",
-    "options": ["Critic", "Flatterer", "Adversary", "Opponent"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tacit'?",
-    "options": ["Explicit", "Implied", "Stated", "Declared"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Taciturn'?",
-    "options": ["Talkative", "Silent", "Verbose", "Loquacious"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tantamount'?",
-    "options": ["Unequal", "Equivalent", "Different", "Unlike"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tawdry'?",
-    "options": ["Elegant", "Gaudy", "Tasteful", "Refined"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Temerity'?",
-    "options": ["Timidity", "Boldness", "Shyness", "Caution"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Temperate'?",
-    "options": ["Extreme", "Moderate", "Excessive", "Intemperate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tenacious'?",
-    "options": ["Weak", "Persistent", "Yielding", "Surrendering"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tenuous'?",
-    "options": ["Strong", "Weak", "Substantial", "Solid"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Terse'?",
-    "options": ["Wordy", "Concise", "Verbose", "Lengthy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Theology'?",
-    "options": ["Science", "Study of religion", "Mathematics", "Philosophy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Timorous'?",
-    "options": ["Brave", "Fearful", "Courageous", "Bold"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tirade'?",
-    "options": ["Praise", "Angry speech", "Compliment", "Flattery"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Torpor'?",
-    "options": ["Energy", "Lethargy", "Vitality", "Vigor"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tout'?",
-    "options": ["To criticize", "To praise", "To condemn", "To blame"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tractable'?",
-    "options": ["Unmanageable", "Manageable", "Stubborn", "Obstinate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Transgress'?",
-    "options": ["To obey", "To violate", "To follow", "To comply"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Transient'?",
-    "options": ["Permanent", "Temporary", "Lasting", "Enduring"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Travail'?",
-    "options": ["Ease", "Hardship", "Comfort", "Leisure"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Trepidation'?",
-    "options": ["Calm", "Fear", "Courage", "Bravery"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Trite'?",
-    "options": ["Original", "Overused", "Fresh", "Novel"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Truculent'?",
-    "options": ["Gentle", "Aggressive", "Peaceful", "Kind"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Truncate'?",
-    "options": ["To extend", "To shorten", "To lengthen", "To expand"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tumult'?",
-    "options": ["Peace", "Commotion", "Calm", "Tranquility"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Turbid'?",
-    "options": ["Clear", "Muddy", "Transparent", "Pure"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Turpitude'?",
-    "options": ["Virtue", "Depravity", "Goodness", "Morality"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Ubiquitous'?",
-    "options": ["Rare", "Omnipresent", "Scarce", "Limited"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Umbrage'?",
-    "options": ["Pleasure", "Offense", "Delight", "Joy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Unctuous'?",
-    "options": ["Genuine", "Oily", "Sincere", "Honest"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Undulate'?",
-    "options": ["To straighten", "To wave", "To flatten", "To smooth"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Untenable'?",
-    "options": ["Defensible", "Indefensible", "Justifiable", "Reasonable"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Upbraid'?",
-    "options": ["To praise", "To scold", "To commend", "To approve"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Urbane'?",
-    "options": ["Rude", "Sophisticated", "Crude", "Unrefined"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Usurp'?",
-    "options": ["To surrender", "To seize", "To relinquish", "To yield"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vacillate'?",
-    "options": ["To decide", "To waver", "To determine", "To resolve"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vacuous'?",
-    "options": ["Thoughtful", "Empty", "Intelligent", "Wise"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vapid'?",
-    "options": ["Exciting", "Dull", "Interesting", "Stimulating"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vehement'?",
-    "options": ["Mild", "Passionate", "Calm", "Gentle"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Venal'?",
-    "options": ["Honest", "Corrupt", "Principled", "Ethical"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Venerate'?",
-    "options": ["To despise", "To respect", "To hate", "To loathe"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Veracity'?",
-    "options": ["Falsehood", "Truthfulness", "Deceit", "Dishonesty"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Verbose'?",
-    "options": ["Concise", "Wordy", "Brief", "Succinct"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vernacular'?",
-    "options": ["Formal language", "Everyday speech", "Jargon", "Technical terms"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vex'?",
-    "options": ["To please", "To annoy", "To delight", "To soothe"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Viable'?",
-    "options": ["Impractical", "Feasible", "Unworkable", "Impossible"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vicarious'?",
-    "options": ["Direct", "Indirect", "Personal", "Immediate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vilify'?",
-    "options": ["To praise", "To slander", "To commend", "To honor"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vindicate'?",
-    "options": ["To accuse", "To clear", "To blame", "To condemn"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Virtuoso'?",
-    "options": ["Amateur", "Expert", "Novice", "Beginner"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Virulent'?",
-    "options": ["Harmless", "Poisonous", "Benign", "Safe"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Visceral'?",
-    "options": ["Intellectual", "Instinctive", "Rational", "Logical"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vitiate'?",
-    "options": ["To purify", "To spoil", "To clean", "To improve"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vitriolic'?",
-    "options": ["Kind", "Bitter", "Sweet", "Pleasant"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vivacious'?",
-    "options": ["Dull", "Lively", "Boring", "Tedious"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vociferous'?",
-    "options": ["Quiet", "Loud", "Silent", "Hushed"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Volatile'?",
-    "options": ["Stable", "Explosive", "Steady", "Constant"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Volition'?",
-    "options": ["Compulsion", "Will", "Force", "Coercion"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Voracious'?",
-    "options": ["Indifferent", "Ravenous", "Satisfied", "Full"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Warranted'?",
-    "options": ["Unjustified", "Justified", "Unreasonable", "Groundless"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Wary'?",
-    "options": ["Careless", "Cautious", "Reckless", "Unconcerned"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Wax'?",
-    "options": ["To decrease", "To increase", "To diminish", "To lessen"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Whet'?",
-    "options": ["To dull", "To sharpen", "To blunt", "To weaken"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Whimsical'?",
-    "options": ["Serious", "Playful", "Sober", "Grave"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Wily'?",
-    "options": ["Naive", "Cunning", "Honest", "Gullible"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Winsome'?",
-    "options": ["Unattractive", "Charming", "Repulsive", "Disagreeable"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Wistful'?",
-    "options": ["Content", "Yearning", "Satisfied", "Happy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Wizened'?",
-    "options": ["Plump", "Withered", "Fresh", "Youthful"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Wrath'?",
-    "options": ["Kindness", "Anger", "Love", "Affection"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Xenophobia'?",
-    "options": ["Love of foreigners", "Fear of foreigners", "Acceptance", "Tolerance"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Zealot'?",
-    "options": ["Moderate", "Fanatic", "Casual observer", "Neutral party"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Zenith'?",
-    "options": ["Nadir", "Peak", "Bottom", "Base"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Recalcitrant'?",
-    "options": ["Obedient", "Stubbornly resistant", "Compliant", "Submissive"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Recant'?",
-    "options": ["To affirm", "To withdraw a statement", "To declare", "To assert"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Reciprocal'?",
-    "options": ["One-sided", "Mutual", "Unilateral", "Independent"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Recluse'?",
-    "options": ["Socialite", "Hermit", "Extrovert", "Gregarious person"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Recondite'?",
-    "options": ["Simple", "Obscure", "Clear", "Straightforward"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Recrimination'?",
-    "options": ["Praise", "Counter-accusation", "Compliment", "Approval"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Redolent'?",
-    "options": ["Odorless", "Fragrant", "Foul-smelling", "Scentless"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Redundant'?",
-    "options": ["Essential", "Unnecessary", "Required", "Needed"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Refractory'?",
-    "options": ["Manageable", "Stubborn", "Obedient", "Compliant"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Refute'?",
-    "options": ["To support", "To disprove", "To confirm", "To verify"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Regale'?",
-    "options": ["To bore", "To entertain", "To tire", "To exhaust"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Relegate'?",
-    "options": ["To promote", "To demote", "To advance", "To elevate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Remiss'?",
-    "options": ["Diligent", "Negligent", "Careful", "Attentive"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Remonstrate'?",
-    "options": ["To agree", "To protest", "To approve", "To endorse"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Renaissance'?",
-    "options": ["Decline", "Rebirth", "Decay", "Deterioration"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Renounce'?",
-    "options": ["To embrace", "To reject", "To accept", "To adopt"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Repast'?",
-    "options": ["Fast", "Meal", "Starvation", "Hunger"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Replete'?",
-    "options": ["Empty", "Full", "Hungry", "Starving"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Reprehensible'?",
-    "options": ["Praiseworthy", "Blameworthy", "Commendable", "Admirable"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Reprieve'?",
-    "options": ["Punishment", "Temporary relief", "Penalty", "Sentence"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Reprobate'?",
-    "options": ["Saint", "Immoral person", "Angel", "Virtuous person"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Repudiate'?",
-    "options": ["To accept", "To reject", "To embrace", "To acknowledge"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Rescind'?",
-    "options": ["To enforce", "To revoke", "To validate", "To confirm"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Resolute'?",
-    "options": ["Hesitant", "Determined", "Uncertain", "Doubtful"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Respite'?",
-    "options": ["Continuation", "Break", "Persistence", "Extension"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Restive'?",
-    "options": ["Calm", "Restless", "Peaceful", "Tranquil"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Reticent'?",
-    "options": ["Talkative", "Reserved", "Outspoken", "Verbose"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Revere'?",
-    "options": ["To despise", "To respect", "To hate", "To loathe"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Rhetoric'?",
-    "options": ["Plain speech", "Persuasive language", "Simple talk", "Direct communication"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Ribald'?",
-    "options": ["Decent", "Vulgar", "Proper", "Modest"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Rife'?",
-    "options": ["Scarce", "Abundant", "Rare", "Limited"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Robust'?",
-    "options": ["Weak", "Strong", "Fragile", "Feeble"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Rogue'?",
-    "options": ["Honest person", "Dishonest person", "Saint", "Angel"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Rudimentary'?",
-    "options": ["Advanced", "Basic", "Complex", "Sophisticated"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Ruminate'?",
-    "options": ["To forget", "To ponder", "To ignore", "To disregard"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Rustic'?",
-    "options": ["Urban", "Rural", "Sophisticated", "Polished"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Ruthless'?",
-    "options": ["Compassionate", "Merciless", "Kind", "Gentle"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Saccharine'?",
-    "options": ["Bitter", "Overly sweet", "Sour", "Tart"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sage'?",
-    "options": ["Fool", "Wise person", "Idiot", "Simpleton"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Salient'?",
-    "options": ["Insignificant", "Prominent", "Minor", "Unimportant"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Salutary'?",
-    "options": ["Harmful", "Beneficial", "Damaging", "Destructive"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sanctimonious'?",
-    "options": ["Genuine", "Hypocritically pious", "Honest", "Sincere"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sanguine'?",
-    "options": ["Pessimistic", "Optimistic", "Gloomy", "Depressed"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sardonic'?",
-    "options": ["Sincere", "Mocking", "Genuine", "Honest"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Satiate'?",
-    "options": ["To starve", "To satisfy fully", "To deprive", "To deny"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Scintillating'?",
-    "options": ["Dull", "Sparkling", "Boring", "Tedious"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Scrupulous'?",
-    "options": ["Careless", "Conscientious", "Negligent", "Reckless"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Scrutinize'?",
-    "options": ["To ignore", "To examine closely", "To overlook", "To neglect"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sedition'?",
-    "options": ["Loyalty", "Rebellion", "Allegiance", "Patriotism"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sedulous'?",
-    "options": ["Lazy", "Diligent", "Idle", "Slothful"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sentient'?",
-    "options": ["Insensitive", "Conscious", "Unaware", "Ignorant"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Serendipity'?",
-    "options": ["Misfortune", "Fortunate accident", "Bad luck", "Disaster"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Servile'?",
-    "options": ["Dominant", "Submissive", "Assertive", "Commanding"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Simper'?",
-    "options": ["To frown", "To smile affectedly", "To scowl", "To glare"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sinecure'?",
-    "options": ["Demanding job", "Easy job", "Difficult task", "Challenging work"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sinuous'?",
-    "options": ["Straight", "Winding", "Direct", "Linear"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Skittish'?",
-    "options": ["Calm", "Nervous", "Steady", "Composed"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Slothful'?",
-    "options": ["Energetic", "Lazy", "Active", "Vigorous"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sobriety'?",
-    "options": ["Drunkenness", "Soberness", "Intoxication", "Inebriation"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Solicitous'?",
-    "options": ["Indifferent", "Concerned", "Unconcerned", "Careless"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Soporific'?",
-    "options": ["Stimulating", "Sleep-inducing", "Energizing", "Invigorating"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sordid'?",
-    "options": ["Honorable", "Dishonorable", "Noble", "Virtuous"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Specious'?",
-    "options": ["Genuine", "Misleading", "Authentic", "Valid"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Spurious'?",
-    "options": ["Genuine", "Fake", "Authentic", "Real"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Squalid'?",
-    "options": ["Clean", "Dirty", "Tidy", "Neat"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Squander'?",
-    "options": ["To save", "To waste", "To conserve", "To preserve"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stagnant'?",
-    "options": ["Flowing", "Motionless", "Active", "Dynamic"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Staid'?",
-    "options": ["Exciting", "Sedate", "Wild", "Unrestrained"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stanza'?",
-    "options": ["Paragraph", "Verse", "Sentence", "Line"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Static'?",
-    "options": ["Changing", "Unchanging", "Dynamic", "Active"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Staunch'?",
-    "options": ["Disloyal", "Loyal", "Unfaithful", "Treacherous"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stentorian'?",
-    "options": ["Quiet", "Loud", "Soft", "Gentle"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stigma'?",
-    "options": ["Honor", "Disgrace", "Praise", "Compliment"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stipulate'?",
-    "options": ["To imply", "To specify", "To suggest", "To hint"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stoic'?",
-    "options": ["Emotional", "Unemotional", "Sensitive", "Passionate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stolid'?",
-    "options": ["Excitable", "Impassive", "Emotional", "Sensitive"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Strident'?",
-    "options": ["Soft", "Harsh", "Gentle", "Mild"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stringent'?",
-    "options": ["Lenient", "Strict", "Flexible", "Easygoing"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stultify'?",
-    "options": ["To stimulate", "To inhibit", "To encourage", "To inspire"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Stymie'?",
-    "options": ["To assist", "To obstruct", "To help", "To facilitate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Subjugate'?",
-    "options": ["To liberate", "To conquer", "To free", "To release"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sublime'?",
-    "options": ["Ordinary", "Majestic", "Common", "Mundane"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Subterfuge'?",
-    "options": ["Honesty", "Deceit", "Truth", "Sincerity"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Subversive'?",
-    "options": ["Supportive", "Destructive", "Loyal", "Patriotic"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Succinct'?",
-    "options": ["Wordy", "Concise", "Lengthy", "Verbose"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Succumb'?",
-    "options": ["To resist", "To yield", "To fight", "To oppose"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Supercilious'?",
-    "options": ["Humble", "Arrogant", "Modest", "Meek"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Superfluous'?",
-    "options": ["Necessary", "Unnecessary", "Essential", "Required"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Surfeit'?",
-    "options": ["Scarcity", "Excess", "Lack", "Shortage"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Surreptitious'?",
-    "options": ["Open", "Secret", "Public", "Overt"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Sycophant'?",
-    "options": ["Critic", "Flatterer", "Adversary", "Opponent"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tacit'?",
-    "options": ["Explicit", "Implied", "Stated", "Declared"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Taciturn'?",
-    "options": ["Talkative", "Silent", "Verbose", "Loquacious"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tantamount'?",
-    "options": ["Unequal", "Equivalent", "Different", "Unlike"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tawdry'?",
-    "options": ["Elegant", "Gaudy", "Tasteful", "Refined"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Temerity'?",
-    "options": ["Timidity", "Boldness", "Shyness", "Caution"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Temperate'?",
-    "options": ["Extreme", "Moderate", "Excessive", "Intemperate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tenacious'?",
-    "options": ["Weak", "Persistent", "Yielding", "Surrendering"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tenuous'?",
-    "options": ["Strong", "Weak", "Substantial", "Solid"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Terse'?",
-    "options": ["Wordy", "Concise", "Verbose", "Lengthy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Theology'?",
-    "options": ["Science", "Study of religion", "Mathematics", "Philosophy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Timorous'?",
-    "options": ["Brave", "Fearful", "Courageous", "Bold"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tirade'?",
-    "options": ["Praise", "Angry speech", "Compliment", "Flattery"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Torpor'?",
-    "options": ["Energy", "Lethargy", "Vitality", "Vigor"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tout'?",
-    "options": ["To criticize", "To praise", "To condemn", "To blame"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tractable'?",
-    "options": ["Unmanageable", "Manageable", "Stubborn", "Obstinate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Transgress'?",
-    "options": ["To obey", "To violate", "To follow", "To comply"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Transient'?",
-    "options": ["Permanent", "Temporary", "Lasting", "Enduring"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Travail'?",
-    "options": ["Ease", "Hardship", "Comfort", "Leisure"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Trepidation'?",
-    "options": ["Calm", "Fear", "Courage", "Bravery"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Trite'?",
-    "options": ["Original", "Overused", "Fresh", "Novel"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Truculent'?",
-    "options": ["Gentle", "Aggressive", "Peaceful", "Kind"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Truncate'?",
-    "options": ["To extend", "To shorten", "To lengthen", "To expand"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Tumult'?",
-    "options": ["Peace", "Commotion", "Calm", "Tranquility"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Turbid'?",
-    "options": ["Clear", "Muddy", "Transparent", "Pure"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Turpitude'?",
-    "options": ["Virtue", "Depravity", "Goodness", "Morality"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Ubiquitous'?",
-    "options": ["Rare", "Omnipresent", "Scarce", "Limited"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Umbrage'?",
-    "options": ["Pleasure", "Offense", "Delight", "Joy"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Unctuous'?",
-    "options": ["Genuine", "Oily", "Sincere", "Honest"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Undulate'?",
-    "options": ["To straighten", "To wave", "To flatten", "To smooth"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Untenable'?",
-    "options": ["Defensible", "Indefensible", "Justifiable", "Reasonable"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Upbraid'?",
-    "options": ["To praise", "To scold", "To commend", "To approve"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Urbane'?",
-    "options": ["Rude", "Sophisticated", "Crude", "Unrefined"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Usurp'?",
-    "options": ["To surrender", "To seize", "To relinquish", "To yield"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vacillate'?",
-    "options": ["To decide", "To waver", "To determine", "To resolve"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vacuous'?",
-    "options": ["Thoughtful", "Empty", "Intelligent", "Wise"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vapid'?",
-    "options": ["Exciting", "Dull", "Interesting", "Stimulating"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vehement'?",
-    "options": ["Mild", "Passionate", "Calm", "Gentle"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Venal'?",
-    "options": ["Honest", "Corrupt", "Principled", "Ethical"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Venerate'?",
-    "options": ["To despise", "To respect", "To hate", "To loathe"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Veracity'?",
-    "options": ["Falsehood", "Truthfulness", "Deceit", "Dishonesty"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Verbose'?",
-    "options": ["Concise", "Wordy", "Brief", "Succinct"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vernacular'?",
-    "options": ["Formal language", "Everyday speech", "Jargon", "Technical terms"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vex'?",
-    "options": ["To please", "To annoy", "To delight", "To soothe"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Viable'?",
-    "options": ["Impractical", "Feasible", "Unworkable", "Impossible"],
-    "answer": "B"
+    "options": ["Overflow", "Crush", "Sink", "Expand"],
+    "answer": "A"
   },
   {
-    "question": "What is the meaning of 'Vicarious'?",
-    "options": ["Direct", "Indirect", "Personal", "Immediate"],
-    "answer": "B"
-  },
-  {
-    "question": "What is the meaning of 'Vilify'?",
-    "options": ["To praise", "To slander", "To commend", "To honor"],
-    "answer": "B"
+    "question": "What is the meaning of 'Rable'?",
+    "options": ["Mob", "Wealth", "Leader", "Group"],
+    "answer": "A"
   },
   {
-    "question": "What is the meaning of 'Vindicate'?",
-    "options": ["To accuse", "To clear", "To blame", "To condemn"],
+    "question": "What is the meaning of 'Rable rouser'?",
+    "options": ["Peacemaker", "Instigator", "Helper", "Thinker"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Virtuoso'?",
-    "options": ["Amateur", "Expert", "Novice", "Beginner"],
+    "question": "What is the meaning of 'Denizen'?",
+    "options": ["Alien", "Resident", "Stranger", "Visitor"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Virulent'?",
-    "options": ["Harmless", "Poisonous", "Benign", "Safe"],
-    "answer": "B"
+    "question": "What is the meaning of 'Inhabitant'?",
+    "options": ["Occupant", "Explorer", "Outsider", "Builder"],
+    "answer": "A"
   },
   {
-    "question": "What is the meaning of 'Visceral'?",
-    "options": ["Intellectual", "Instinctive", "Rational", "Logical"],
+    "question": "What is the meaning of 'Depravity'?",
+    "options": ["Goodness", "Wickedness", "Strength", "Truth"],
     "answer": "B"
   },
   {
-    "question": "What is the meaning of 'Vitiate'?",
-    "options": ["To purify", "To spoil", "To clean", "To improve"],
-    "answer": "B"
+    "question": "What is the meaning of 'Wickedness'?",
+    "options": ["Kindness", "Power", "Evil", "Anger"],
+    "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Vitriolic'?",
-    "options": ["Kind", "Bitter", "Sweet", "Pleasant"],
-    "answer": "B"
+    "question": "What is the meaning of 'Deprecate'?",
+    "options": ["Criticize", "Celebrate", "Ignore", "Condemn"],
+    "answer": "A"
   },
   {
-    "question": "What is the meaning of 'Vivacious'?",
-    "options": ["Dull", "Lively", "Boring", "Tedious"],
-    "answer": "B"
+    "question": "What is the meaning of 'Deride'?",
+    "options": ["Praise", "Support", "Mock", "Encourage"],
+    "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Vociferous'?",
-    "options": ["Quiet", "Loud", "Silent", "Hushed"],
-    "answer": "B"
+    "question": "What is the meaning of 'Contempt'?",
+    "options": ["Respect", "Fear", "Disdain", "Politeness"],
+    "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Volatile'?",
-    "options": ["Stable", "Explosive", "Steady", "Constant"],
-    "answer": "B"
+    "question": "What is the meaning of 'Beneath'?",
+    "options": ["Above", "Over", "Under", "Behind"],
+    "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Volition'?",
-    "options": ["Compulsion", "Will", "Force", "Coercion"],
-    "answer": "B"
+    "question": "What is the meaning of 'Scorn'?",
+    "options": ["Admire", "Disrespect", "Value", "Reject"],
+    "answer": "D"
   },
   {
-    "question": "What is the meaning of 'Voracious'?",
-    "options": ["Indifferent", "Ravenous", "Satisfied", "Full"],
-    "answer": "B"
+    "question": "What is the meaning of 'Ridicule'?",
+    "options": ["Praise", "Support", "Mock", "Fear"],
+    "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Warranted'?",
-    "options": ["Unjustified", "Justified", "Unreasonable", "Groundless"],
-    "answer": "B"
+    "question": "What is the meaning of 'Derogatory'?",
+    "options": ["Positive", "Polite", "Insulting", "Cheerful"],
+    "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Wary'?",
-    "options": ["Careless", "Cautious", "Reckless", "Unconcerned"],
-    "answer": "B"
+    "question": "What is the meaning of 'Degrade'?",
+    "options": ["Respect", "Weaken", "Uplift", "Humiliate"],
+    "answer": "D"
   },
   {
-    "question": "What is the meaning of 'Wax'?",
-    "options": ["To decrease", "To increase", "To diminish", "To lessen"],
-    "answer": "B"
+    "question": "What is the meaning of 'Desiccated'?",
+    "options": ["Dry", "Moist", "Cracked", "Fragile"],
+    "answer": "A"
   },
   {
-    "question": "What is the meaning of 'Whet'?",
-    "options": ["To dull", "To sharpen", "To blunt", "To weaken"],
-    "answer": "B"
+    "question": "What is the meaning of 'Despondent'?",
+    "options": ["Hopeful", "Happy", "Depressed", "Joyful"],
+    "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Whimsical'?",
-    "options": ["Serious", "Playful", "Sober", "Grave"],
-    "answer": "B"
+    "question": "What is the meaning of 'Depressed'?",
+    "options": ["Excited", "Angry", "Sad", "Proud"],
+    "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Wily'?",
-    "options": ["Naive", "Cunning", "Honest", "Gullible"],
-    "answer": "B"
+    "question": "What is the meaning of 'Despot'?",
+    "options": ["Ruler", "Tyrant", "Autocrat", "Leader"],
+    "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Winsome'?",
-    "options": ["Unattractive", "Charming", "Repulsive", "Disagreeable"],
-    "answer": "B"
+    "question": "What is the meaning of 'Autocrat'?",
+    "options": ["Dictator", "Minister", "Servant", "Democrat"],
+    "answer": "A"
   },
   {
-    "question": "What is the meaning of 'Wistful'?",
-    "options": ["Content", "Yearning", "Satisfied", "Happy"],
-    "answer": "B"
+    "question": "What is the meaning of 'Destitute'?",
+    "options": ["Rich", "Powerful", "Penniless", "Honest"],
+    "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Wizened'?",
-    "options": ["Plump", "Withered", "Fresh", "Youthful"],
-    "answer": "B"
+    "question": "What is the meaning of 'Desultory'?",
+    "options": ["Focused", "Casual", "Unplanned", "Dedicated"],
+    "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Wrath'?",
-    "options": ["Kindness", "Anger", "Love", "Affection"],
-    "answer": "B"
+    "question": "What is the meaning of 'Enthusiasm'?",
+    "options": ["Boredom", "Joy", "Excitement", "Energy"],
+    "answer": "D"
   },
   {
-    "question": "What is the meaning of 'Xenophobia'?",
-    "options": ["Love of foreigners", "Fear of foreigners", "Acceptance", "Tolerance"],
-    "answer": "B"
+    "question": "What is the meaning of 'Dictum'?",
+    "options": ["Command", "Opinion", "Statement", "Rule"],
+    "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Zealot'?",
-    "options": ["Moderate", "Fanatic", "Casual observer", "Neutral party"],
-    "answer": "B"
+    "question": "What is the meaning of 'Authoritative'?",
+    "options": ["Weak", "Passive", "Firm", "Commanding"],
+    "answer": "D"
   },
   {
-    "question": "What is the meaning of 'Zenith'?",
-    "options": ["Nadir", "Peak", "Bottom", "Base"],
-    "answer": "B"
+    "question": "What is the meaning of 'Adage'?",
+    "options": ["Saying", "Lie", "Myth", "Truth"],
+    "answer": "A"
   }
 ]
+
+
+
