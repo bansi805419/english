@@ -440,11 +440,6 @@
     "answer": "A"
   },
   {
-    "question": "What is the meaning of 'Bastion'?",
-    "options": ["Fortress", "Plant", "Instrument", "Contract"],
-    "answer": "A"
-  },
-  {
     "question": "What is the meaning of 'Amenable'?",
     "options": ["Stubborn", "Resistant", "Cooperative", "Rebellious"],
     "answer": "C"
@@ -1475,11 +1470,6 @@
     "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Beleaguer'?",
-    "options": ["Decorate", "Surround", "Study", "Repair"],
-    "answer": "B"
-  },
-  {
     "question": "What is the meaning of 'Chimera'?",
     "options": ["Dream or illusion", "Fact", "Proof", "Reality"],
     "answer": "A"
@@ -2485,6 +2475,7 @@
     "answer": "A"
   }
 ]
+
 
 
 
