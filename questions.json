@@ -5,6 +5,16 @@
     "answer": "B"
   },
   {
+    "question": "What is the meaning of 'Congregate'?",
+    "options": ["Paint", "Gather", "Split", "Argue"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Averse'?",
+    "options": ["Dislike", "Adapt", "Interest", "Start"],
+    "answer": "A"
+  },
+  {
     "question": "What is the meaning of 'Bastion'?",
     "options": ["Fortress", "Plant", "Instrument", "Contract"],
     "answer": "A"
@@ -2490,6 +2500,7 @@
     "answer": "A"
   }
 ]
+
 
 
 
