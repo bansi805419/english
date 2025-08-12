@@ -8,7 +8,7 @@
     "question": "What is the meaning of 'Affinity'?",
     "options": ["Liking", "Shelter", "Document", "Measurement"],
     "answer": "A"
-  }
+  },
   {
     "question": "What is the meaning of 'Congregate'?",
     "options": ["Paint", "Gather", "Split", "Argue"],
@@ -2505,6 +2505,7 @@
     "answer": "A"
   }
 ]
+
 
 
 
