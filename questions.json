@@ -15,11 +15,6 @@
     "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Aberration'?",
-    "options": ["Clarity", "Correction", "Accuracy", "Deviation from normal"],
-    "answer": "D"
-  },
-  {
     "question": "What is the meaning of 'Detest'?",
     "options": ["To protect", "To enjoy", "To hate", "To love"],
     "answer": "C"
@@ -83,11 +78,6 @@
     "question": "What is the meaning of 'Abridge'?",
     "options": ["To lengthen", "To extend", "To shorten", "To elaborate"],
     "answer": "C"
-  },
-  {
-    "question": "What is the meaning of 'Absolute'?",
-    "options": ["Conditional", "Complete", "Relative", "Insecure"],
-    "answer": "B"
   },
   {
     "question": "What is the meaning of 'Abstinent'?",
@@ -450,9 +440,9 @@
     "answer": "A"
   },
   {
-    "question": "What is the meaning of 'Ameliorate'?",
-    "options": ["To increase", "To delay", "To worsen", "To make better"],
-    "answer": "D"
+    "question": "What is the meaning of 'Bastion'?",
+    "options": ["Fortress", "Plant", "Instrument", "Contract"],
+    "answer": "A"
   },
   {
     "question": "What is the meaning of 'Amenable'?",
@@ -1474,9 +1464,9 @@
     "options": ["Suffer", "Cause pain", "Relieve", "Heal"],
     "answer": "B"
   },
-  {
-    "question": "What is the meaning of 'Chastise'?",
-    "options": ["Praise", "Ignore", "Punish severely", "Worship"],
+   {
+    "question": "What is the meaning of 'Agenda'?",
+    "options": ["Fabric", "Recipe", "List", "Event"],
     "answer": "C"
   },
   {
@@ -1485,8 +1475,8 @@
     "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Artifice'?",
-    "options": ["Genuine act", "Trick or cunning", "Simplicity", "Wisdom"],
+    "question": "What is the meaning of 'Beleaguer'?",
+    "options": ["Decorate", "Surround", "Study", "Repair"],
     "answer": "B"
   },
   {
@@ -2495,6 +2485,7 @@
     "answer": "A"
   }
 ]
+
 
 
 
