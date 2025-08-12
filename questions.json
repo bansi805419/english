@@ -65,11 +65,6 @@
     "answer": "C"
   },
   {
-    "question": "What is the meaning of 'Aberration'?",
-    "options": ["Deviation from norm", "Perfection", "Routine", "Alignment"],
-    "answer": "A"
-  },
-  {
     "question": "What is the meaning of 'Abortive'?",
     "options": ["Successful", "Fruitless", "Growing", "Effective"],
     "answer": "B"
@@ -2475,6 +2470,7 @@
     "answer": "A"
   }
 ]
+
 
 
 
