@@ -5,6 +5,26 @@
     "answer": "B"
   },
   {
+    "question": "What is the meaning of 'Bastion'?",
+    "options": ["Fortress", "Plant", "Instrument", "Contract"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the meaning of 'Beleaguer'?",
+    "options": ["Decorate", "Surround", "Study", "Repair"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of 'Gratuity'?",
+    "options": ["Agreement", "Tax", "Tip", "Garment"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the meaning of 'Agenda'?",
+    "options": ["Fabric", "Recipe", "List", "Event"],
+    "answer": "C"
+  },
+  {
     "question": "What is the meaning of 'Abate'?",
     "options": ["To reduce", "To create", "To abandon", "To increase"],
     "answer": "A"
@@ -2470,6 +2490,7 @@
     "answer": "A"
   }
 ]
+
 
 
 
